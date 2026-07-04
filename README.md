@@ -5,15 +5,21 @@ A SQL-based cybersecurity analytics project that analyzes security incidents, th
 ✨ Key Features :
 
 🗄️ Designed a normalized relational database with 8 interconnected tables (clients, incidents, assets, analysts, SLAs, threat intel, financial impact, response actions)
+
 🚨 Built incident triage queries to identify P1/P2 incidents, open cases, and response time delays
+
 🎯 Performed threat intelligence analysis (CVSS severity, attack patterns, threat actor trends)
+
 💰 Tracked SLA breaches and financial impact per client to identify high-risk accounts
+
 👨‍💻 Analyzed analyst performance (shift-wise efficiency, resolution success rate, workload distribution)
+
 📊 Solved 13+ real-world business problems using advanced SQL (JOINs, CTEs, CASE, aggregations)
 
 🛠️ Tools & Technologies :
 
 SQL
+
 MySQL
 
 💡 What I Learned :
