@@ -1,0 +1,521 @@
+client_id,client_name,industry,contract_tier,country,contract_start_date,contract_value_usd,employee_count
+CLI0001,"Rodriguez, Figueroa and Sanchez",Unknown,Basic,USA,2022-01-18,133772.55,48275
+CLI0002,Rhodes PLC,Unknown,Premium,UAE,2021-11-03,57165.33,6150
+CLI0003,Johnson-Davis,Education,Basic,Japan,2022-06-03,328453.19,27503
+CLI0004,"Johnson, Gonzalez and Santos",Logistics,Basic,Canada,2023-09-03,18151.9,23436
+CLI0005,Cole LLC,Retail Tech,Premium,UK,2024-09-23,119427.17,24213
+CLI0006,Blake and Sons,Finance,Premium,Australia,2024-04-13,251016.89,35152
+CLI0007,Ramirez-Lewis,Energy,Basic,UAE,2024-07-18,328453.19,37847
+CLI0008,Davis Inc,Unknown,Basic,USA,2022-12-05,335712.71,15266
+CLI0009,Munoz-Roman,Energy,Premium,Brazil,2024-05-30,251016.89,23293
+CLI0010,"Martinez, Nielsen and Miller",Unknown,Premium,India,2022-08-31,251016.89,41623
+CLI0011,"Montgomery, Hensley and Ray",SaaS,Premium,Germany,2024-04-23,251016.89,24213
+CLI0012,Stanley LLC,Retail Tech,Basic,USA,2025-06-07,328453.19,23436
+CLI0013,Delacruz Group,Finance,Standard,Japan,2022-08-09,225159.56,27258
+CLI0014,"Flowers, Martin and Kelly",Logistics,Standard,Canada,2024-03-04,225159.56,27258
+CLI0015,"Zuniga, Wong and Lynch",Telecom,Enterprise,Japan,2022-03-06,121370.57,27484
+CLI0016,"Sanchez, Ford and Nelson",Finance,Basic,USA,2025-03-11,89128.04,23436
+CLI0017,"Hawkins, Cohen and Cameron",Telecom,Basic,Singapore,2024-08-05,328453.19,23436
+CLI0018,Underwood LLC,Healthcare,Premium,India,2023-02-05,251016.89,24213
+CLI0019,Clark PLC,Finance,Premium,Singapore,2024-12-30,251016.89,32816
+CLI0020,Lewis-Porter,SaaS,Basic,USA,2025-01-11,328453.19,13045
+CLI0021,"Ellis, Baker and Wright",Retail Tech,Basic,UK,2023-09-27,328453.19,23436
+CLI0022,Burgess-Patterson,Retail Tech,Enterprise,USA,2023-10-29,212874.54,15702
+CLI0023,Robinson-Bright,Education,Basic,India,2023-07-13,56541.92,23436
+CLI0024,Campos Inc,Manufacturing,Standard,USA,2022-02-07,225159.56,27258
+CLI0025,Conner Group,Energy,Standard,UAE,2023-11-17,225159.56,27258
+CLI0026,James-Ferrell,Unknown,Premium,Brazil,2023-08-11,233970.78,14735
+CLI0027,"Valencia, Smith and Le",Retail Tech,Basic,Japan,2024-03-20,283651.94,23436
+CLI0028,"Potter, Mack and Peterson",Unknown,Basic,Germany,2022-08-31,328453.19,23436
+CLI0029,Chavez Ltd,Education,Premium,USA,2024-12-29,251016.89,24213
+CLI0030,Stanton-Gill,Education,Basic,Brazil,2023-07-10,406636.04,23436
+CLI0031,Harrell LLC,Retail Tech,Enterprise,Singapore,2024-11-09,241506.96,27484
+CLI0032,"Lynch, Hernandez and Farmer",Unknown,Premium,India,2023-08-26,251016.89,24213
+CLI0033,"Sellers, George and Burns",Manufacturing,Premium,Brazil,2021-12-09,251016.89,36076
+CLI0034,Koch-Decker,Healthcare,Premium,UAE,2022-09-21,484963.18,24213
+CLI0035,Allen PLC,Logistics,Enterprise,Germany,2025-04-12,452684.79,24846
+CLI0036,Dennis Inc,Energy,Premium,Brazil,2025-05-27,251016.89,24213
+CLI0037,"Cannon, Anderson and Alvarez",Logistics,Standard,Germany,2023-09-10,225159.56,27258
+CLI0038,Rose-Obrien,Healthcare,Premium,Australia,2025-05-07,251016.89,34817
+CLI0039,"Campos, Vaughn and Marquez",Healthcare,Basic,India,2023-02-01,427901.13,44260
+CLI0040,"Santos, Kim and Holmes",Energy,Basic,Japan,2021-12-22,328453.19,23436
+CLI0041,Brown Inc,Unknown,Basic,Japan,2023-11-05,468332.54,23436
+CLI0042,Chapman Inc,Retail Tech,Standard,Canada,2021-10-10,225159.56,27258
+CLI0043,"Brown, Jones and Johnson",Finance,Basic,Brazil,2022-10-24,316262.24,23436
+CLI0044,"Young, Caldwell and Lewis",Education,Basic,Canada,2022-01-08,79241.44,23436
+CLI0045,"Johnston, Sanchez and Kennedy",Government,Standard,Brazil,2023-02-13,225159.56,27258
+CLI0046,Davis Group,Healthcare,Premium,UAE,2022-11-28,336743.53,17342
+CLI0047,Owens-Daniel,Finance,Premium,UAE,2024-03-08,151651.79,24213
+CLI0048,"Garcia, Powell and Morgan",Education,Premium,USA,2024-12-08,251016.89,3339
+CLI0049,Lee PLC,Unknown,Enterprise,Canada,2023-04-15,176774.92,27484
+CLI0050,White-Ford,Manufacturing,Premium,Brazil,2024-12-27,282565.0,7341
+CLI0051,Ramos PLC,Unknown,Standard,UAE,2021-11-19,225159.56,27258
+CLI0052,"Kidd, Huff and Novak",Manufacturing,Basic,Canada,2025-03-13,191855.98,23459
+CLI0053,Martin Group,Unknown,Standard,USA,2023-06-02,225159.56,27258
+CLI0054,Barrera-Martin,Manufacturing,Standard,UK,2021-07-02,225159.56,1634
+CLI0055,Baker-Bowers,Unknown,Premium,Singapore,2023-04-24,434071.05,17495
+CLI0056,Horton-Cross,Unknown,Basic,Singapore,2024-08-16,431417.73,23436
+CLI0057,"Higgins, Moore and Phillips",Retail Tech,Premium,Germany,2025-05-14,251016.89,24213
+CLI0058,"Fitzgerald, Brown and Edwards",Finance,Basic,Canada,2021-09-10,328453.19,21712
+CLI0059,Shaw-Farrell,Finance,Premium,UK,2022-02-14,296586.02,24213
+CLI0060,"Miller, Lopez and Larson",Energy,Premium,India,2024-03-11,251016.89,24213
+CLI0061,Powell PLC,Telecom,Standard,Canada,2022-06-23,225159.56,27258
+CLI0062,"Williams, Miller and Sandoval",Unknown,Premium,India,2023-10-02,340254.82,24213
+CLI0063,Donovan-Harris,Telecom,Premium,USA,2024-05-10,251016.89,24213
+CLI0064,Baker and Sons,Unknown,Enterprise,Australia,2024-03-06,158392.77,27484
+CLI0065,Bryant-Hickman,Unknown,Enterprise,USA,2025-03-27,212874.54,27484
+CLI0066,Ellis PLC,SaaS,Basic,USA,2025-06-23,328453.19,23436
+CLI0067,Medina PLC,Retail Tech,Enterprise,Brazil,2022-07-21,212874.54,48241
+CLI0068,Ibarra-Suarez,Unknown,Basic,Canada,2022-12-20,328453.19,6130
+CLI0069,Kim PLC,Unknown,Premium,Germany,2024-04-21,406183.0,24213
+CLI0070,"Riggs, Roman and Rice",Telecom,Basic,India,2024-02-29,328453.19,23436
+CLI0071,"Evans, Alvarado and Mcmillan",Unknown,Enterprise,Brazil,2022-01-11,208831.64,49225
+CLI0072,Preston Ltd,Energy,Standard,UK,2023-09-15,225159.56,27258
+CLI0073,Campbell-Clark,Education,Basic,India,2022-11-11,328453.19,23436
+CLI0074,"Walters, Baker and Freeman",Retail Tech,Basic,Brazil,2025-02-10,328453.19,23436
+CLI0075,Davis Group,Logistics,Standard,India,2024-10-22,233283.83,27258
+CLI0076,Smith and Sons,SaaS,Enterprise,USA,2024-01-15,212874.54,27484
+CLI0077,Martin-Ramos,Retail Tech,Premium,UAE,2024-04-24,251016.89,45488
+CLI0078,"Smith, Jones and Ware",Unknown,Standard,India,2025-02-08,225159.56,27258
+CLI0079,"Johnson, Wood and Tran",Education,Basic,Singapore,2023-03-18,203896.25,23436
+CLI0080,Parker Inc,Logistics,Basic,Australia,2025-02-01,328453.19,23436
+CLI0081,Fleming Ltd,Unknown,Basic,Japan,2021-11-26,328453.19,23436
+CLI0082,"Henson, Russell and Oliver",Healthcare,Enterprise,Australia,2022-02-09,402099.03,30640
+CLI0083,Hancock and Sons,Telecom,Basic,USA,2025-01-06,454860.5,23436
+CLI0084,White LLC,Energy,Standard,Brazil,2024-08-15,225159.56,27258
+CLI0085,Pham-Shields,Retail Tech,Premium,Singapore,2024-09-25,251016.89,16542
+CLI0086,Moore-Haynes,Logistics,Basic,India,2023-01-08,328453.19,23436
+CLI0087,Garrison and Sons,Finance,Basic,USA,2022-04-16,30049.55,13075
+CLI0088,Bailey-Hoover,Telecom,Standard,Germany,2024-12-23,225159.56,27258
+CLI0089,Johnson and Sons,Unknown,Premium,Australia,2023-02-01,96377.73,24213
+CLI0090,Lin-Rasmussen,Finance,Basic,USA,2022-08-10,328453.19,23436
+CLI0091,"Hicks, Frazier and Anthony",Education,Basic,Japan,2022-10-25,349947.99,23436
+CLI0092,Wilson LLC,Unknown,Basic,India,2022-03-16,401170.2,23436
+CLI0093,Johnson-Carlson,Energy,Premium,Australia,2022-11-16,48444.02,24213
+CLI0094,Graham-Joyce,Finance,Enterprise,Australia,2021-12-14,416923.05,28550
+CLI0095,"Lee, Williams and Graham",Unknown,Basic,USA,2023-07-28,328453.19,23436
+CLI0096,"Mcdaniel, Bentley and Mclaughlin",Energy,Basic,India,2022-04-12,171317.72,23436
+CLI0097,Jones-Beck,Logistics,Standard,Brazil,2022-10-24,225159.56,27258
+CLI0098,Alvarado-Martinez,Retail Tech,Standard,Brazil,2025-02-02,225159.56,27258
+CLI0099,"Parker, Ortiz and Powell",Unknown,Premium,UAE,2022-09-03,19923.29,24213
+CLI0100,Lee Ltd,Energy,Enterprise,UAE,2025-04-02,212874.54,29381
+CLI0101,"Adkins, Thompson and Carroll",Finance,Premium,Germany,2023-02-12,251016.89,24213
+CLI0102,Torres and Sons,SaaS,Basic,Australia,2023-03-19,328453.19,23436
+CLI0103,"Lawson, Morris and Ramos",Logistics,Premium,Canada,2024-03-12,73518.1,20689
+CLI0104,"Kennedy, Santana and Flynn",Unknown,Basic,India,2022-03-03,328453.19,23436
+CLI0105,Campbell Ltd,Telecom,Basic,UAE,2024-01-09,490547.66,19424
+CLI0106,Davis-Crane,Retail Tech,Standard,Canada,2022-06-07,225159.56,2992
+CLI0107,Walker-Gonzalez,SaaS,Premium,India,2021-08-03,251016.89,6733
+CLI0108,Riggs PLC,Telecom,Premium,Brazil,2024-11-21,247176.39,24213
+CLI0109,Gibson Ltd,Finance,Basic,India,2023-10-18,209343.11,9953
+CLI0110,"Horton, Snyder and Sanchez",Telecom,Premium,India,2024-02-12,251016.89,24213
+CLI0111,Stafford Inc,Telecom,Standard,UAE,2024-08-09,225159.56,27258
+CLI0112,Thompson Ltd,Government,Basic,Japan,2023-07-25,44211.7,49996
+CLI0113,Grant Inc,Unknown,Standard,Canada,2023-04-26,91172.69,36185
+CLI0114,Contreras-Travis,Manufacturing,Basic,Singapore,2023-11-15,328453.19,2149
+CLI0115,Salazar-Ball,Government,Premium,Canada,2023-07-06,235205.19,24213
+CLI0116,"Griffin, Moore and Hensley",Telecom,Premium,Germany,2023-04-17,279112.75,17418
+CLI0117,Larsen LLC,Finance,Basic,UK,2024-07-21,328453.19,23436
+CLI0118,"Washington, Allen and Gonzales",Finance,Enterprise,India,2024-05-06,212874.54,27484
+CLI0119,Nelson LLC,Logistics,Enterprise,India,2025-01-23,212874.54,27484
+CLI0120,Taylor and Sons,Healthcare,Basic,Germany,2023-01-09,328453.19,38487
+CLI0121,Mccarthy Inc,Unknown,Basic,Canada,2023-02-25,385107.87,23436
+CLI0122,Daniels-Perry,Unknown,Enterprise,Canada,2022-04-27,212874.54,27484
+CLI0123,Price-Carrillo,Retail Tech,Enterprise,Australia,2025-04-11,65730.94,27484
+CLI0124,Gates PLC,Unknown,Enterprise,Canada,2023-01-05,212874.54,27484
+CLI0125,Bender LLC,Finance,Premium,Canada,2024-07-03,251016.89,33734
+CLI0126,Medina-Navarro,Unknown,Basic,UAE,2024-09-09,328453.19,23436
+CLI0127,Freeman LLC,Logistics,Premium,Brazil,2023-03-27,251016.89,24213
+CLI0128,Price Ltd,Logistics,Premium,Brazil,2024-03-17,251016.89,24213
+CLI0129,Ramsey-Pittman,Manufacturing,Premium,UAE,2025-03-03,212875.48,24213
+CLI0130,"Ferguson, Meadows and Vargas",Finance,Premium,UK,2024-02-22,251016.89,24213
+CLI0131,Day and Sons,Energy,Basic,Brazil,2024-12-16,328453.19,23436
+CLI0132,Williams Group,Education,Basic,UAE,2022-10-20,376951.88,23436
+CLI0133,Murphy-Juarez,Retail Tech,Basic,UAE,2023-01-03,328453.19,23436
+CLI0134,King-Miller,Unknown,Enterprise,UK,2021-07-27,212874.54,27484
+CLI0135,"Williams, Crane and Walker",Energy,Enterprise,Australia,2021-10-07,490675.7,27484
+CLI0136,"Williams, Johnson and Wright",Education,Basic,Singapore,2024-11-06,328453.19,23436
+CLI0137,"Hernandez, Martinez and Caldwell",Unknown,Standard,Brazil,2023-09-30,225159.56,21767
+CLI0138,Marshall LLC,Logistics,Basic,UAE,2024-07-23,22443.58,23436
+CLI0139,Obrien Ltd,Manufacturing,Basic,Brazil,2024-05-13,328453.19,23436
+CLI0140,Oconnell Inc,Unknown,Basic,Australia,2023-10-22,328453.19,23436
+CLI0141,Johnston-Odonnell,Unknown,Basic,Brazil,2022-12-29,438105.76,23436
+CLI0142,"Gonzalez, Vargas and Rivas",Unknown,Premium,Germany,2022-06-18,377181.69,24213
+CLI0143,"Barton, Jefferson and Burke",Unknown,Basic,India,2021-12-22,230184.1,23436
+CLI0144,"Patton, Reed and Patterson",Healthcare,Premium,Australia,2022-12-22,251016.89,24213
+CLI0145,"Holland, Smith and Fisher",Unknown,Basic,UK,2023-06-15,328453.19,23436
+CLI0146,Yu-Reid,Education,Enterprise,Japan,2024-10-21,212874.54,27484
+CLI0147,"Hernandez, Thompson and Boyd",Unknown,Basic,Brazil,2024-02-04,343641.28,23436
+CLI0148,"Morton, Medina and Webb",Retail Tech,Basic,Canada,2023-03-27,328453.19,23436
+CLI0149,"Vargas, Morris and Sanchez",Education,Enterprise,Brazil,2025-03-25,212874.54,27484
+CLI0150,Keith-Sanchez,Unknown,Premium,USA,2023-05-08,251016.89,24213
+CLI0151,"Barnett, Rogers and Snyder",Unknown,Basic,India,2022-10-16,328453.19,18766
+CLI0152,Lewis-Salinas,Telecom,Basic,Australia,2022-11-08,328453.19,23436
+CLI0153,"Haynes, Hill and Smith",Unknown,Premium,UK,2025-04-14,319700.33,24213
+CLI0154,Allen Group,Healthcare,Basic,Australia,2023-06-12,328453.19,23436
+CLI0155,Vaughn Ltd,Energy,Standard,Germany,2024-05-04,225159.56,27258
+CLI0156,Mcguire-Davis,Government,Basic,UK,2022-05-18,328453.19,23436
+CLI0157,"Sanchez, Beck and Wood",Retail Tech,Basic,India,2023-09-15,51520.19,23436
+CLI0158,Coleman-Reese,Unknown,Enterprise,UAE,2022-10-25,192400.9,27484
+CLI0159,"Chavez, Parker and Hall",Finance,Enterprise,Australia,2024-05-17,212874.54,27484
+CLI0160,Wilson-Herrera,Retail Tech,Basic,USA,2024-07-16,328453.19,23436
+CLI0161,Lee Ltd,Education,Premium,India,2023-06-06,251016.89,24213
+CLI0162,"Lawrence, Wolf and Carlson",Finance,Standard,USA,2025-05-31,225159.56,7620
+CLI0163,Phillips LLC,Education,Basic,UK,2022-03-18,328453.19,23436
+CLI0164,Erickson and Sons,Unknown,Premium,UK,2022-08-03,251016.89,24213
+CLI0165,Tran Ltd,Government,Basic,India,2025-04-08,230040.8,23778
+CLI0166,"Oneill, Henry and Salas",Unknown,Premium,UAE,2023-10-15,452322.66,24213
+CLI0167,Mendoza-Peterson,Education,Basic,Brazil,2025-05-09,328453.19,1409
+CLI0168,Everett-Woods,Retail Tech,Standard,UK,2024-10-12,225159.56,27258
+CLI0169,Vasquez-Ray,Education,Basic,Germany,2024-03-27,328453.19,23436
+CLI0170,Hernandez PLC,Manufacturing,Standard,UAE,2025-04-15,136567.29,8647
+CLI0171,Mcknight Inc,Retail Tech,Basic,Germany,2023-09-22,328453.19,3444
+CLI0172,Obrien-Gibbs,Unknown,Enterprise,UAE,2022-05-24,212874.54,27484
+CLI0173,"James, Kerr and Evans",Telecom,Basic,Brazil,2023-11-05,259361.76,23436
+CLI0174,Torres-Oliver,SaaS,Premium,Brazil,2023-12-06,251016.89,24213
+CLI0175,"Garcia, Farmer and Garrett",Unknown,Basic,Brazil,2022-07-20,360514.64,23436
+CLI0176,Moore and Sons,Manufacturing,Basic,UK,2023-09-13,328453.19,23436
+CLI0177,Smith Group,Energy,Basic,UAE,2024-04-01,328453.19,23436
+CLI0178,Carter-Hall,Finance,Basic,USA,2024-04-26,387946.92,23436
+CLI0179,"Heath, Jones and Hall",Education,Enterprise,Australia,2022-07-20,416298.32,27484
+CLI0180,"Lawrence, Lara and Gonzalez",Retail Tech,Premium,Canada,2021-12-13,251016.89,4409
+CLI0181,Holland LLC,Finance,Basic,Singapore,2024-10-18,373316.06,36472
+CLI0182,Brown LLC,Telecom,Basic,UAE,2023-11-15,328453.19,23436
+CLI0183,"Morse, Gonzales and Harrison",Unknown,Basic,Canada,2022-09-16,328453.19,33263
+CLI0184,Bender-Mason,Manufacturing,Premium,Brazil,2023-06-20,251016.89,24098
+CLI0185,George Group,Government,Basic,Germany,2024-06-06,328453.19,23436
+CLI0186,"Wright, Davis and Hayden",Unknown,Basic,USA,2024-11-01,328453.19,1907
+CLI0187,"Matthews, Smith and Hubbard",Government,Premium,Canada,2024-10-11,185246.36,24213
+CLI0188,"Williams, Avila and Ruiz",Unknown,Enterprise,India,2024-02-05,83809.21,27484
+CLI0189,White-Richards,SaaS,Standard,Singapore,2024-01-12,225159.56,27258
+CLI0190,Costa-Harrison,Retail Tech,Basic,Japan,2023-02-15,443420.96,23436
+CLI0191,Santiago-Hodge,Healthcare,Premium,India,2022-10-23,251016.89,24213
+CLI0192,"Simpson, Bates and Morales",Energy,Premium,Germany,2024-07-14,251016.89,24213
+CLI0193,Gibson LLC,Unknown,Premium,Japan,2022-07-02,251016.89,24213
+CLI0194,Cordova Group,Telecom,Basic,USA,2024-12-13,473482.18,23436
+CLI0195,Sandoval PLC,Retail Tech,Basic,USA,2023-05-04,223867.68,23436
+CLI0196,Lopez LLC,Unknown,Standard,UAE,2023-12-25,225159.56,27258
+CLI0197,Garrett-Wolf,Unknown,Basic,Singapore,2022-04-22,328453.19,23436
+CLI0198,"Anderson, Roberts and Gilmore",Telecom,Enterprise,India,2023-06-07,212874.54,27484
+CLI0199,Dudley PLC,Manufacturing,Basic,Japan,2024-09-08,328453.19,23436
+CLI0200,"Moore, Pierce and Tran",Finance,Standard,Singapore,2021-11-12,225159.56,27258
+CLI0201,Murray Inc,Retail Tech,Standard,Australia,2024-01-31,392872.17,27258
+CLI0202,Jimenez Ltd,Education,Basic,Australia,2022-08-29,479738.32,15494
+CLI0203,"Hill, Davenport and Baird",Manufacturing,Premium,Germany,2022-06-20,99147.03,24213
+CLI0204,"Thomas, Lee and Greene",Logistics,Enterprise,Japan,2024-06-23,212874.54,27484
+CLI0205,Shields LLC,Telecom,Premium,USA,2024-07-31,251016.89,24213
+CLI0206,Morgan-French,Government,Basic,Canada,2022-07-24,301838.58,23436
+CLI0207,Campbell LLC,Logistics,Basic,USA,2024-11-03,193837.74,23436
+CLI0208,"Duarte, Burns and Hernandez",SaaS,Enterprise,Brazil,2023-08-24,296459.76,27484
+CLI0209,Cook-Hines,Unknown,Standard,Australia,2023-01-01,308427.83,29535
+CLI0210,Kane-Pollard,Retail Tech,Premium,India,2022-06-12,98691.07,24213
+CLI0211,Hall-Rowe,Logistics,Basic,UAE,2021-08-31,328453.19,23436
+CLI0212,"Kennedy, Mcintyre and James",Retail Tech,Premium,Japan,2025-06-12,251016.89,24213
+CLI0213,"Pollard, Simpson and Johnson",Finance,Basic,USA,2023-07-02,328453.19,23436
+CLI0214,"Rivera, Garcia and Kirk",Finance,Basic,USA,2021-11-21,328453.19,23436
+CLI0215,Smith-Thomas,Unknown,Basic,Canada,2024-12-22,328453.19,23436
+CLI0216,Jones LLC,Unknown,Basic,India,2022-11-05,498624.59,23436
+CLI0217,"Sanders, Miller and Murphy",Energy,Basic,Australia,2024-03-10,164800.04,23436
+CLI0218,"James, Stewart and Higgins",Education,Standard,UK,2024-07-12,90148.41,27258
+CLI0219,"Johnson, Jones and Welch",Unknown,Basic,USA,2025-03-05,328453.19,23436
+CLI0220,Francis Group,Energy,Standard,UK,2025-05-28,225159.56,27258
+CLI0221,"Padilla, Garcia and Jackson",Logistics,Basic,Singapore,2022-09-09,328453.19,23436
+CLI0222,Williams Inc,Unknown,Basic,Brazil,2022-08-31,328453.19,23436
+CLI0223,Jordan-Sanchez,Unknown,Basic,Brazil,2023-02-21,328453.19,23436
+CLI0224,"Sparks, Jackson and Miller",Energy,Standard,Germany,2024-12-22,225159.56,27258
+CLI0225,"Vega, Jimenez and Aguilar",Logistics,Basic,Australia,2022-06-03,328453.19,23436
+CLI0226,"King, Scott and Smith",Finance,Basic,UK,2024-09-16,454073.51,28680
+CLI0227,Byrd-Moore,Education,Basic,Brazil,2023-04-05,328453.19,23436
+CLI0228,Huerta-Evans,SaaS,Premium,Germany,2025-05-04,54578.64,24213
+CLI0229,"Wright, Bruce and Gonzalez",Finance,Basic,India,2023-01-12,398819.61,23436
+CLI0230,Rodriguez-James,Logistics,Premium,UK,2022-12-05,251016.89,354
+CLI0231,Haney-Phillips,Healthcare,Premium,Germany,2025-05-27,251016.89,24213
+CLI0232,"Foster, Smith and Grimes",Finance,Basic,Canada,2024-08-09,74096.45,23436
+CLI0233,Lozano Ltd,Telecom,Enterprise,India,2023-06-24,212874.54,35140
+CLI0234,Parsons-Hall,Unknown,Basic,Japan,2024-09-12,328453.19,23436
+CLI0235,Fields PLC,Retail Tech,Standard,Japan,2022-06-30,217035.28,27258
+CLI0236,"Saunders, Becker and Taylor",Finance,Basic,UAE,2021-11-17,328453.19,23436
+CLI0237,"Lucas, Parker and Alexander",Logistics,Basic,USA,2023-10-23,202637.44,23412
+CLI0238,"Anderson, Browning and Murphy",Retail Tech,Standard,India,2023-02-26,225159.56,27258
+CLI0239,Anderson PLC,Manufacturing,Basic,Australia,2024-12-30,409551.8,23436
+CLI0240,Schmidt-Mcintyre,Unknown,Enterprise,USA,2024-10-24,212874.54,27484
+CLI0241,Sloan-Raymond,Education,Basic,Germany,2025-05-12,328453.19,23436
+CLI0242,Francis-Morgan,SaaS,Enterprise,Canada,2021-12-14,212874.54,23404
+CLI0243,Taylor and Sons,Unknown,Premium,Canada,2024-12-06,251016.89,24213
+CLI0244,"Craig, Sanders and Singleton",Energy,Premium,UK,2023-09-21,251016.89,17489
+CLI0245,Gibbs Inc,Unknown,Enterprise,India,2022-07-20,497622.61,27484
+CLI0246,Gibson Ltd,Retail Tech,Basic,India,2024-06-27,328453.19,23436
+CLI0247,Richards-Carson,Energy,Standard,India,2025-04-02,225159.56,27258
+CLI0248,Leonard Group,Government,Premium,USA,2021-08-04,251016.89,24213
+CLI0249,"Murphy, Bishop and Holland",Unknown,Standard,USA,2024-01-13,225159.56,2290
+CLI0250,Blankenship-Turner,Finance,Standard,USA,2023-02-15,225159.56,27258
+CLI0251,Williams Inc,Manufacturing,Premium,Brazil,2022-09-16,475179.41,37622
+CLI0252,Wilson-Young,SaaS,Premium,Singapore,2023-08-23,167476.94,24213
+CLI0253,Chavez-Santiago,Manufacturing,Enterprise,UAE,2024-06-18,212874.54,27484
+CLI0254,"Barnes, Newton and Moore",Logistics,Standard,Japan,2023-02-25,225159.56,13128
+CLI0255,Bass PLC,Manufacturing,Basic,India,2023-02-15,328453.19,23436
+CLI0256,Johnson-Wood,Retail Tech,Premium,Australia,2023-04-07,251016.89,19667
+CLI0257,Foley Inc,Unknown,Premium,India,2025-06-01,251016.89,14705
+CLI0258,Stephens-Levine,Education,Basic,UK,2022-12-05,328453.19,23436
+CLI0259,Hill-Donaldson,Retail Tech,Enterprise,UAE,2025-04-15,77939.05,27484
+CLI0260,Davis-Lewis,Unknown,Premium,Brazil,2024-01-19,251016.89,4843
+CLI0261,Williams LLC,Retail Tech,Premium,India,2022-06-19,251016.89,24213
+CLI0262,Buchanan and Sons,Unknown,Basic,UK,2021-10-07,328453.19,3641
+CLI0263,"Clark, Robinson and Kane",SaaS,Standard,Canada,2022-10-22,171490.46,27258
+CLI0264,Kramer PLC,Government,Basic,India,2021-07-03,328453.19,17996
+CLI0265,Huerta PLC,Unknown,Premium,Japan,2022-06-30,258747.98,24213
+CLI0266,Rodriguez Inc,Manufacturing,Standard,USA,2022-01-07,225159.56,36947
+CLI0267,Tyler-Young,Healthcare,Basic,USA,2022-10-15,328453.19,42682
+CLI0268,Baker and Sons,Telecom,Enterprise,Japan,2024-06-16,212874.54,27484
+CLI0269,"Wilson, Brown and West",Government,Enterprise,Germany,2022-12-09,212874.54,29733
+CLI0270,"Rodriguez, Gordon and Dougherty",Unknown,Basic,UK,2021-08-31,249861.8,23436
+CLI0271,"Boyd, Ellis and Maynard",Manufacturing,Premium,India,2021-09-25,251016.89,26140
+CLI0272,Boone-Simmons,Retail Tech,Basic,UAE,2021-12-03,66499.21,23436
+CLI0273,"Browning, Jones and Miller",Education,Standard,India,2023-12-04,225159.56,27412
+CLI0274,Martinez PLC,Manufacturing,Basic,Australia,2024-01-09,364747.29,23436
+CLI0275,"Joseph, James and Harper",SaaS,Enterprise,Brazil,2022-09-02,441351.7,27484
+CLI0276,"Jacobs, Garcia and Miles",Logistics,Standard,Germany,2024-11-25,225159.56,27258
+CLI0277,"Rich, Arnold and Glenn",Unknown,Premium,Brazil,2023-03-19,153587.96,28251
+CLI0278,Gutierrez Group,Government,Premium,Australia,2023-02-01,251016.89,24213
+CLI0279,"Davis, Simmons and Ortega",SaaS,Standard,Australia,2022-12-27,225159.56,27258
+CLI0280,Mcdaniel Group,Government,Basic,Japan,2021-10-05,344993.34,23436
+CLI0281,Davis Inc,Retail Tech,Basic,Australia,2024-06-20,328453.19,23436
+CLI0282,Cain-Hawkins,Healthcare,Basic,USA,2023-11-02,328453.19,23436
+CLI0283,"Hoffman, Santiago and Jenkins",Manufacturing,Basic,UAE,2024-12-26,328453.19,23436
+CLI0284,Parrish-Griffith,Telecom,Premium,Canada,2025-05-13,251016.89,24213
+CLI0285,"Edwards, Garcia and Romero",Unknown,Basic,Canada,2022-02-10,328453.19,44168
+CLI0286,Walker-Rodriguez,Energy,Basic,Canada,2024-11-15,401426.08,23436
+CLI0287,Wilson-Ramirez,Government,Premium,Japan,2022-05-25,251016.89,31496
+CLI0288,Bruce-Villegas,SaaS,Premium,India,2024-10-06,422966.06,44622
+CLI0289,"Leonard, Hawkins and Lynch",Healthcare,Basic,India,2024-02-15,328453.19,27455
+CLI0290,"Adams, White and Park",Energy,Premium,Germany,2022-09-23,251016.89,24213
+CLI0291,Bell-White,Healthcare,Premium,UK,2022-01-24,251016.89,24213
+CLI0292,"Morales, Thomas and Schultz",Retail Tech,Standard,Brazil,2021-08-12,225159.56,27258
+CLI0293,"Moreno, Bennett and Chavez",Unknown,Premium,India,2022-02-13,249827.35,24213
+CLI0294,Griffith-Frank,Government,Standard,Canada,2023-10-06,225159.56,27258
+CLI0295,Ware and Sons,Retail Tech,Basic,India,2022-02-13,328453.19,23436
+CLI0296,"Williams, Miller and Ramos",Retail Tech,Basic,UK,2023-03-10,155869.54,23436
+CLI0297,"Ramos, Nelson and Fischer",Unknown,Premium,India,2021-12-12,251016.89,24213
+CLI0298,Rodriguez-Gregory,Unknown,Premium,UK,2023-11-12,374332.12,15899
+CLI0299,"Estrada, Williams and Foster",Unknown,Basic,Germany,2023-11-21,328453.19,23436
+CLI0300,Harris and Sons,Logistics,Basic,USA,2024-07-24,328453.19,23436
+CLI0301,Roberts-Wilson,Unknown,Enterprise,Brazil,2023-06-25,212874.54,27484
+CLI0302,Thompson-James,Unknown,Basic,India,2024-04-22,331364.88,23436
+CLI0303,"Hansen, Barnett and Gomez",Manufacturing,Basic,Singapore,2023-01-30,328453.19,2465
+CLI0304,"Williams, Smith and Morse",Government,Basic,Japan,2024-12-09,328453.19,23436
+CLI0305,"Patterson, Sullivan and Bowman",SaaS,Basic,Brazil,2022-08-25,328453.19,23436
+CLI0306,Smith-Nguyen,Education,Basic,India,2024-09-11,328453.19,47104
+CLI0307,"Stevens, Norris and Cox",Healthcare,Premium,Australia,2023-03-29,290373.89,24213
+CLI0308,Sanchez PLC,Unknown,Enterprise,Singapore,2023-02-04,264911.12,12119
+CLI0309,Foster LLC,Logistics,Premium,Germany,2024-06-22,251016.89,24213
+CLI0310,Cook and Sons,Retail Tech,Premium,Japan,2021-10-18,251016.89,45411
+CLI0311,"Wilson, Hicks and Bullock",Healthcare,Premium,India,2022-11-21,251016.89,24213
+CLI0312,"Mullen, Brewer and Hernandez",Unknown,Basic,USA,2021-11-26,328453.19,14483
+CLI0313,Gonzalez-Morrison,Manufacturing,Enterprise,UK,2024-07-13,212874.54,27484
+CLI0314,"Jones, Bean and Burton",SaaS,Enterprise,UAE,2023-05-07,415417.7,27484
+CLI0315,"Wolf, Cole and Glass",Finance,Basic,Brazil,2023-10-01,328453.19,7363
+CLI0316,"Downs, Morris and Maddox",SaaS,Basic,Germany,2022-10-03,328453.19,23436
+CLI0317,Jones-Ramos,Finance,Premium,Germany,2022-09-14,251016.89,29205
+CLI0318,Vargas-Bell,Logistics,Standard,UAE,2021-10-15,225159.56,27258
+CLI0319,Hayes-Brown,Government,Premium,USA,2024-10-26,410979.81,37910
+CLI0320,Newman Inc,Healthcare,Enterprise,Australia,2023-12-14,354686.67,27484
+CLI0321,"Cruz, Carpenter and Best",Healthcare,Premium,Singapore,2024-06-12,251016.89,24213
+CLI0322,Cole PLC,Logistics,Basic,Singapore,2024-02-06,328453.19,23436
+CLI0323,Jacobs-Mason,Retail Tech,Basic,UK,2025-04-28,205633.44,47710
+CLI0324,Garcia-Nolan,Healthcare,Basic,USA,2022-11-12,328453.19,23436
+CLI0325,"Miller, Lucas and Williams",Energy,Basic,Germany,2024-04-27,328453.19,23436
+CLI0326,Warren-Bishop,Finance,Basic,USA,2022-12-12,218331.69,15782
+CLI0327,Hughes-Schroeder,Finance,Basic,Japan,2024-03-16,31284.49,23436
+CLI0328,Mccormick Ltd,Healthcare,Enterprise,Brazil,2022-10-30,128654.55,27484
+CLI0329,Davis-Gregory,Government,Standard,India,2022-08-18,225159.56,27258
+CLI0330,"York, Brandt and Morrison",Manufacturing,Premium,UAE,2022-02-03,122205.73,24213
+CLI0331,Aguilar and Sons,Unknown,Standard,USA,2025-02-27,344193.81,27258
+CLI0332,Ponce-Hale,Unknown,Enterprise,UAE,2023-01-22,216917.45,27484
+CLI0333,"Fletcher, Miller and Hansen",Manufacturing,Basic,UAE,2024-01-25,328453.19,46381
+CLI0334,Li-Santiago,Logistics,Basic,UAE,2024-10-22,328453.19,23436
+CLI0335,"Osborn, Gaines and Davis",Education,Premium,Germany,2024-03-04,251016.89,24328
+CLI0336,"Cox, Cox and White",SaaS,Premium,Germany,2022-05-07,251016.89,39523
+CLI0337,Lee-Cooke,Finance,Standard,Japan,2022-02-10,225159.56,27258
+CLI0338,Richard-Garcia,Government,Basic,Germany,2024-07-29,469522.49,23436
+CLI0339,"Stephenson, Johnson and Rogers",Education,Premium,Japan,2024-07-22,207366.55,24213
+CLI0340,Harper and Sons,Government,Enterprise,Brazil,2022-02-21,212874.54,27484
+CLI0341,"Wise, Lamb and Martin",Logistics,Enterprise,India,2023-03-30,212874.54,27484
+CLI0342,Diaz-Ball,Retail Tech,Enterprise,USA,2025-05-15,122317.94,27484
+CLI0343,"Mitchell, Goodman and Cole",SaaS,Basic,Japan,2023-08-18,158168.26,21628
+CLI0344,Sheppard-Mueller,Energy,Basic,Germany,2025-02-08,328453.19,23436
+CLI0345,Richardson PLC,Unknown,Premium,India,2025-06-06,251016.89,11102
+CLI0346,Hammond-Strickland,Unknown,Basic,Brazil,2023-07-03,104263.17,34347
+CLI0347,Burch-Montoya,Finance,Basic,USA,2024-09-11,18096.15,41343
+CLI0348,Salas Inc,Finance,Premium,UK,2024-01-21,251016.89,24213
+CLI0349,Spencer-Garcia,Unknown,Premium,Japan,2024-11-15,457684.46,24213
+CLI0350,Mitchell and Sons,SaaS,Enterprise,USA,2022-08-01,212874.54,18798
+CLI0351,"Hernandez, Kim and Potts",SaaS,Basic,India,2022-05-19,405991.33,7023
+CLI0352,Wilkerson-Arias,SaaS,Standard,Germany,2023-02-25,225159.56,27258
+CLI0353,Shaw-Young,Finance,Premium,Singapore,2025-06-21,132955.83,24213
+CLI0354,Walker-Flores,Finance,Premium,USA,2021-11-20,251016.89,24213
+CLI0355,"Santos, Moody and Taylor",Logistics,Basic,USA,2022-08-22,328453.19,23436
+CLI0356,Horton-Taylor,Retail Tech,Basic,India,2024-04-24,460788.82,23436
+CLI0357,Gilbert-Bullock,Telecom,Enterprise,Canada,2021-07-26,212874.54,27484
+CLI0358,Conley PLC,Unknown,Basic,UK,2025-04-02,167525.08,38481
+CLI0359,"Rose, Rodriguez and Roberts",Unknown,Basic,Singapore,2022-09-11,328453.19,23436
+CLI0360,Allen Ltd,Energy,Premium,UAE,2024-08-31,381470.49,24213
+CLI0361,Brown-Copeland,Finance,Basic,India,2023-06-29,328453.19,15223
+CLI0362,"Smith, Robertson and Allen",Retail Tech,Basic,Japan,2022-01-24,328453.19,23436
+CLI0363,Smith-Gomez,Government,Basic,Brazil,2023-10-10,328453.19,28311
+CLI0364,Beck Inc,Unknown,Basic,USA,2023-08-02,328453.19,23436
+CLI0365,Jones-Fox,Finance,Basic,Canada,2023-07-10,360163.42,23436
+CLI0366,"Spencer, Myers and Harrison",Retail Tech,Premium,India,2024-01-13,251016.89,24213
+CLI0367,King-Smith,Finance,Standard,India,2024-08-24,225159.56,27258
+CLI0368,Allen-Sandoval,Finance,Basic,India,2021-11-27,328453.19,23436
+CLI0369,"Moss, Cook and Williams",Healthcare,Premium,Singapore,2023-09-04,251016.89,24213
+CLI0370,"Thompson, Maxwell and Marshall",SaaS,Standard,USA,2024-04-09,225159.56,27258
+CLI0371,"White, Taylor and Baldwin",Manufacturing,Basic,UK,2025-04-07,328453.19,23436
+CLI0372,Carter Inc,Government,Standard,India,2024-08-27,302996.1,30016
+CLI0373,Stewart LLC,Manufacturing,Premium,USA,2023-07-21,251016.89,24213
+CLI0374,"Kennedy, Johnson and Lucas",Logistics,Premium,Singapore,2022-08-21,251016.89,24213
+CLI0375,Glenn LLC,Retail Tech,Basic,India,2022-08-02,328453.19,23436
+CLI0376,Kim-Ross,Unknown,Premium,USA,2023-04-02,294301.45,24213
+CLI0377,Morgan-Lopez,Government,Basic,Singapore,2024-04-05,467052.57,23436
+CLI0378,Glass-Stone,Manufacturing,Premium,UAE,2024-09-11,367698.48,24213
+CLI0379,"Coleman, Jordan and Carney",Unknown,Basic,Singapore,2022-03-19,328453.19,23436
+CLI0380,Morris-Miller,Unknown,Standard,India,2024-02-19,225159.56,27258
+CLI0381,Griffin-Robbins,Telecom,Enterprise,UAE,2022-02-27,212874.54,35638
+CLI0382,Bell-Williams,Retail Tech,Premium,UAE,2024-12-21,303002.67,24213
+CLI0383,Mendez-Graham,Unknown,Premium,UK,2024-01-19,251016.89,24213
+CLI0384,Jones Ltd,Energy,Basic,USA,2023-02-12,328453.19,23436
+CLI0385,"Owen, Shelton and Cisneros",Unknown,Basic,Germany,2022-01-23,328453.19,23436
+CLI0386,"Gregory, Kim and Martinez",Manufacturing,Premium,USA,2022-06-08,249143.98,24213
+CLI0387,"Diaz, Reyes and Bradley",Manufacturing,Premium,Canada,2023-11-30,251016.89,24213
+CLI0388,"Cole, Watson and Wallace",Logistics,Basic,Brazil,2021-10-19,365167.06,19688
+CLI0389,Moreno Group,Unknown,Basic,USA,2022-10-01,329265.41,48538
+CLI0390,Wright-Wilson,SaaS,Standard,UAE,2024-06-07,225159.56,27258
+CLI0391,Holmes-Mcintyre,Unknown,Standard,UK,2021-12-18,325632.26,27258
+CLI0392,Padilla-Lewis,Education,Enterprise,Japan,2023-12-09,17158.27,27484
+CLI0393,"Hendricks, Henry and Martinez",Unknown,Basic,India,2024-11-25,328453.19,23436
+CLI0394,Thompson-Reeves,Retail Tech,Standard,Brazil,2025-06-25,225159.56,27258
+CLI0395,"Ponce, Downs and Contreras",Retail Tech,Basic,Singapore,2024-04-30,328453.19,23436
+CLI0396,"Daniels, Vance and York",Telecom,Standard,USA,2024-05-03,225159.56,38687
+CLI0397,"Little, Leon and Hicks",Unknown,Standard,Australia,2021-12-23,163109.3,27258
+CLI0398,Conner and Sons,Manufacturing,Basic,Singapore,2024-08-26,328453.19,27734
+CLI0399,Ward PLC,Logistics,Premium,UAE,2022-12-19,327951.15,36376
+CLI0400,"Anderson, Henson and Jones",Logistics,Premium,UK,2023-01-31,251016.89,24213
+CLI0401,"Higgins, Fox and Hammond",Healthcare,Enterprise,UK,2024-10-13,212874.54,27484
+CLI0402,Martinez LLC,Logistics,Enterprise,USA,2024-01-23,212874.54,32037
+CLI0403,Owens-Holmes,Finance,Basic,USA,2022-01-02,401002.23,18022
+CLI0404,"Bowman, White and Burch",SaaS,Premium,UK,2023-03-23,251016.89,24213
+CLI0405,Guerra PLC,Finance,Basic,India,2022-02-07,328453.19,35533
+CLI0406,Martin Ltd,Unknown,Enterprise,UAE,2022-05-24,221200.02,19520
+CLI0407,"Jacobson, Singleton and King",Logistics,Premium,Australia,2024-01-12,433166.82,15538
+CLI0408,"Hill, Weber and Mendez",Unknown,Basic,India,2021-11-12,328453.19,23436
+CLI0409,"Jackson, David and Moore",Manufacturing,Basic,Germany,2024-02-16,328453.19,23436
+CLI0410,"Winters, Morgan and Bradshaw",Government,Basic,UAE,2021-08-28,328453.19,23436
+CLI0411,Miller Ltd,Government,Basic,UAE,2024-07-29,492961.83,23436
+CLI0412,Curtis-Wang,Healthcare,Premium,USA,2023-02-27,435048.22,24213
+CLI0413,"Johnson, Small and Gardner",Retail Tech,Basic,Germany,2024-01-22,328453.19,23436
+CLI0414,Webb-Ballard,Unknown,Premium,USA,2024-03-25,215899.17,24213
+CLI0415,Chavez-Barker,Unknown,Premium,India,2022-02-14,251016.89,24213
+CLI0416,Washington-Harris,Healthcare,Basic,India,2023-12-02,328453.19,23436
+CLI0417,Hensley-Flores,Energy,Standard,Singapore,2025-06-11,225159.56,27258
+CLI0418,Hester-Anderson,SaaS,Basic,UK,2022-12-22,328453.19,44741
+CLI0419,"Rodriguez, Allen and Martinez",Healthcare,Basic,USA,2023-04-16,395186.53,23436
+CLI0420,Davis LLC,Logistics,Basic,Singapore,2025-04-10,348967.06,23436
+CLI0421,"Barnes, Estes and Barrera",Manufacturing,Basic,Canada,2024-09-29,60269.89,23436
+CLI0422,"Griffith, Lee and Moore",Unknown,Standard,USA,2025-06-23,163171.98,27258
+CLI0423,Jimenez-Parker,Finance,Premium,India,2021-08-01,246251.25,38917
+CLI0424,Wagner-Levy,SaaS,Premium,Brazil,2022-05-09,19504.17,24213
+CLI0425,Williams-Campbell,Manufacturing,Enterprise,India,2023-11-18,126039.23,27484
+CLI0426,"Chambers, Mitchell and Smith",Retail Tech,Premium,UK,2021-12-03,409483.44,24213
+CLI0427,Khan Ltd,Manufacturing,Basic,UAE,2022-12-15,311004.83,23436
+CLI0428,Diaz-Morales,Unknown,Standard,USA,2023-10-10,225159.56,27258
+CLI0429,Cox LLC,Education,Basic,India,2021-10-14,328453.19,23436
+CLI0430,"Cole, Pierce and Bryan",Retail Tech,Basic,UK,2023-12-26,327640.98,23436
+CLI0431,"Wilson, Hester and Long",Telecom,Premium,Japan,2024-09-02,153186.59,24213
+CLI0432,Grant-Diaz,Education,Basic,Japan,2022-01-25,328453.19,42357
+CLI0433,"Hicks, Porter and Williams",Education,Enterprise,Singapore,2022-01-15,212874.54,27484
+CLI0434,Brock-Stone,Healthcare,Premium,Australia,2022-02-01,251016.89,24213
+CLI0435,"Taylor, Velazquez and Flores",SaaS,Premium,UK,2023-01-24,384922.08,24213
+CLI0436,"Stevenson, Evans and Rogers",Finance,Basic,Canada,2024-10-21,328453.19,23436
+CLI0437,"Burns, Hart and Wells",Unknown,Premium,UAE,2021-07-23,251016.89,24213
+CLI0438,Nunez-Whitney,SaaS,Basic,Japan,2023-10-29,89050.02,33518
+CLI0439,"Wiggins, Soto and Carlson",Manufacturing,Basic,Australia,2022-07-21,204504.78,23436
+CLI0440,"Patton, Parsons and Lane",Energy,Premium,Germany,2024-05-17,251016.89,24213
+CLI0441,"Castillo, Warren and Griffith",Telecom,Basic,USA,2024-08-03,374721.35,7837
+CLI0442,Hernandez-Becker,Unknown,Standard,India,2021-08-14,225159.56,27258
+CLI0443,"Rodriguez, Smith and Edwards",Unknown,Premium,UK,2022-02-05,251016.89,48043
+CLI0444,"Harris, Shaw and Carr",Healthcare,Premium,Singapore,2023-05-19,251016.89,41135
+CLI0445,"Luna, Thornton and Stone",Logistics,Enterprise,UAE,2023-09-26,212874.54,27484
+CLI0446,"Mendoza, Bennett and Frye",Manufacturing,Premium,India,2023-05-01,448720.18,24213
+CLI0447,"Peterson, Gomez and Ingram",SaaS,Basic,USA,2024-05-17,431464.17,23436
+CLI0448,"Lara, Baker and Washington",Energy,Standard,UK,2025-04-27,225159.56,27258
+CLI0449,Grant-Walker,Unknown,Enterprise,Germany,2025-05-20,212874.54,17787
+CLI0450,Wise-Bush,Telecom,Premium,India,2024-04-02,452441.39,24213
+CLI0451,Stewart-Bailey,Healthcare,Enterprise,India,2025-03-24,212874.54,21459
+CLI0452,"Hill, Martinez and Rhodes",SaaS,Enterprise,USA,2023-01-04,212874.54,27484
+CLI0453,Cardenas-Blevins,Education,Enterprise,Australia,2024-09-16,254279.93,27484
+CLI0454,Williams-Moses,Education,Standard,USA,2021-10-22,225159.56,27258
+CLI0455,Douglas-Burgess,Unknown,Basic,Australia,2022-05-07,328453.19,6822
+CLI0456,"Nelson, Hoffman and Nelson",SaaS,Standard,Singapore,2021-12-05,44049.11,27258
+CLI0457,"Matthews, Sanchez and Santiago",Finance,Basic,Germany,2023-08-13,328453.19,23436
+CLI0458,"Hall, Garcia and Rivera",Finance,Basic,India,2023-05-20,328453.19,23436
+CLI0459,"Townsend, Smith and Pierce",Telecom,Basic,Singapore,2025-03-17,328453.19,23436
+CLI0460,Delgado-Gilmore,Energy,Premium,India,2023-05-24,234587.56,4904
+CLI0461,"Gonzalez, Maynard and Morris",Manufacturing,Basic,Japan,2024-01-28,328453.19,23436
+CLI0462,Pearson and Sons,Energy,Basic,UAE,2023-08-19,328453.19,23436
+CLI0463,"Jefferson, Johnson and Dorsey",Government,Basic,India,2023-03-01,328453.19,23436
+CLI0464,Peck Inc,Telecom,Basic,Germany,2025-06-24,420423.5,46616
+CLI0465,French-Lopez,Retail Tech,Enterprise,UAE,2024-06-27,159937.74,27484
+CLI0466,Mcdowell-Smith,Logistics,Basic,India,2023-10-06,281808.63,9171
+CLI0467,Hebert LLC,Healthcare,Basic,Germany,2022-08-18,328453.19,23436
+CLI0468,"Daniels, Snyder and Mays",Unknown,Basic,Japan,2024-11-23,299267.59,1438
+CLI0469,Nelson-Lamb,Education,Premium,Brazil,2022-10-25,251016.89,8039
+CLI0470,"Stevens, Scott and Lopez",Logistics,Basic,UK,2024-06-09,328453.19,32524
+CLI0471,Bradley-Todd,Energy,Premium,Singapore,2022-03-12,119137.31,24213
+CLI0472,"Prince, Wilcox and Robertson",Logistics,Standard,USA,2021-11-02,225159.56,27258
+CLI0473,"Davis, Holden and Woods",SaaS,Enterprise,USA,2025-03-27,212874.54,27484
+CLI0474,Green and Sons,SaaS,Standard,USA,2023-04-12,497132.33,27258
+CLI0475,Finley-Turner,Retail Tech,Enterprise,UAE,2024-05-20,212874.54,27484
+CLI0476,Green LLC,Energy,Premium,UK,2024-04-06,27640.54,18421
+CLI0477,Contreras Group,Logistics,Basic,Australia,2022-09-20,499808.79,6572
+CLI0478,Parks-Leblanc,Unknown,Standard,Canada,2025-01-16,273839.44,27258
+CLI0479,Vaughn-Fowler,Energy,Premium,UK,2025-04-03,251016.89,38778
+CLI0480,Mendez-Robinson,Unknown,Premium,Australia,2022-01-10,251016.89,24213
+CLI0481,Gibson PLC,SaaS,Premium,UK,2022-12-26,58774.83,39440
+CLI0482,"Dunn, Ruiz and Medina",Healthcare,Basic,Brazil,2024-02-24,460179.65,23436
+CLI0483,Gill Ltd,Unknown,Standard,Australia,2024-07-05,86640.33,27258
+CLI0484,Fox PLC,Retail Tech,Basic,Australia,2024-04-22,328453.19,23436
+CLI0485,Stark Inc,Government,Premium,UK,2021-09-27,251016.89,24213
+CLI0486,"Leach, Harris and Herrera",Unknown,Premium,UK,2022-02-24,251016.89,23394
+CLI0487,"Ramos, Frazier and Love",Unknown,Basic,UK,2023-06-13,328453.19,8355
+CLI0488,"Griffin, Brown and Anderson",Unknown,Basic,India,2023-02-25,328453.19,2132
+CLI0489,"Brown, Ford and Roman",Telecom,Premium,Japan,2024-05-20,251016.89,24213
+CLI0490,Scott-Smith,Unknown,Basic,Germany,2022-05-13,183202.91,23436
+CLI0491,Williams LLC,Unknown,Premium,Australia,2024-04-17,143628.03,45437
+CLI0492,"Mcknight, Michael and Jones",Retail Tech,Premium,India,2025-03-24,251016.89,24213
+CLI0493,Mitchell and Sons,Manufacturing,Enterprise,Brazil,2024-07-26,212874.54,27484
+CLI0494,"Good, Brewer and Fisher",Telecom,Premium,USA,2025-06-18,124407.62,19337
+CLI0495,West-Stark,Retail Tech,Premium,India,2023-01-01,251016.89,24213
+CLI0496,Vega Ltd,Finance,Basic,India,2024-12-27,328453.19,46180
+CLI0497,Valdez LLC,Energy,Premium,UK,2021-12-19,309549.05,24213
+CLI0498,"Long, Anderson and Irwin",Education,Standard,Singapore,2024-10-30,225159.56,27258
+CLI0499,Good Group,Government,Premium,Germany,2024-03-08,251016.89,32184
+CLI0500,"Coleman, Gray and Hall",Healthcare,Premium,USA,2023-05-02,251016.89,31488
+CLI0501,Hill Ltd,Finance,Basic,Germany,2024-07-21,97853.61,31045
+CLI0502,Pacheco Group,Government,Basic,Singapore,2023-12-14,328453.19,23436
+CLI0503,Allen Inc,SaaS,Enterprise,UK,2021-11-23,200000.92,29224
+CLI0504,Griffin Ltd,Government,Enterprise,Brazil,2024-04-21,212874.54,4049
+CLI0505,Sanchez Inc,Unknown,Premium,India,2023-02-06,251016.89,24213
+CLI0506,Fernandez Inc,Education,Basic,USA,2022-01-19,328453.19,23436
+CLI0507,Young-Hendricks,Logistics,Basic,Germany,2023-10-18,245987.21,23436
+CLI0508,"Harper, Chambers and Flores",SaaS,Basic,Japan,2022-09-12,343604.42,23436
+CLI0509,Odom PLC,Manufacturing,Standard,Germany,2022-05-17,225159.56,27258
+CLI0510,Hill-Hawkins,Energy,Standard,USA,2023-11-10,225159.56,47661
+CLI0511,"Buck, Garrett and Simmons",Finance,Enterprise,UAE,2023-06-23,212874.54,27484
+CLI0512,David-Powers,Healthcare,Basic,India,2024-08-20,328453.19,23436
+CLI0513,Horton-Russell,Manufacturing,Standard,Japan,2022-09-10,300148.05,27258
+CLI0514,Webster Group,Finance,Basic,Canada,2022-06-16,328453.19,23436
+CLI0515,Turner Ltd,Unknown,Enterprise,Japan,2022-01-25,212874.54,26419
+CLI0516,Melendez-Hart,Telecom,Basic,USA,2025-05-12,328453.19,45263
+CLI0517,"Moreno, Price and Scott",Healthcare,Premium,Brazil,2022-10-24,461604.97,24213
+CLI0518,Nielsen LLC,Government,Premium,Brazil,2021-11-11,347153.23,24213
+CLI0519,"Calderon, Williams and Bennett",Unknown,Enterprise,Australia,2023-11-29,145668.69,27484
+CLI0520,Russo and Sons,Education,Basic,Singapore,2024-09-16,328453.19,23436

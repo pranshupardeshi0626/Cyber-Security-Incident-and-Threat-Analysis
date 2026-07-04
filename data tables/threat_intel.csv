@@ -1,0 +1,601 @@
+threat_id,threat_type,threat_actor,severity,cve_id,cvss_score,first_seen_date
+THR0001,man-in-the-middle,APT41,High,CVE-2021-52488,1.2,2025-12-12
+THR0002,credential stuffing,Unknown,Critical,CVE-2024-7669,2.1,2026-04-14
+THR0003,Phishing,APT41,Low,CVE-2025-4124,3.9,2022-10-27
+THR0004,ddos,Unknown,Critical,CVE-2020-85048,4.1,2023-09-28
+THR0005,ddos,APT41,High,CVE-2020-64790,9.3,2025-05-19
+THR0006,man-in-the-middle,APT29,Critical,,0.7,2025-06-13
+THR0007,zero-day exploit,Lazarus Group,High,CVE-2023-27608,,2022-11-15
+THR0008,Phishing,Scattered Spider,Low,CVE-2025-63270,,2022-03-17
+THR0009,Phishing,unknown,Medium,CVE-2020-22398,5.4,2025-09-24
+THR0010,insider threat,FIN7,Low,CVE-2025-92732,9.8,2021-10-14
+THR0011,Phishing,FIN7,Critical,,,2022-09-22
+THR0012,insider threat,Unknown,Medium,CVE-2023-58794,5.9,2024-08-28
+THR0013,credential stuffing,Scattered Spider,High,CVE-2023-10029,6.3,2023-02-16
+THR0014,insider threat,FIN7,Low,CVE-2021-84128,3.3,2025-08-13
+THR0015,zero-day exploit,Unknown,Low,CVE-2024-23159,2.6,2023-11-27
+THR0016,malware,unknown,Low,CVE-2020-7817,,2022-03-22
+THR0017,credential stuffing,APT41,High,,,2022-11-09
+THR0018,Phishing,Lazarus Group,High,CVE-2020-82811,,2023-02-03
+THR0019,insider threat,Sandworm,Critical,CVE-2018-92132,,2026-06-03
+THR0020,zero-day exploit,unknown,Critical,CVE-2024-54371,,2024-07-07
+THR0021,ddos,Unknown,Low,,,2024-03-04
+THR0022,Phishing,Lazarus Group,Critical,CVE-2023-67688,9.0,2025-08-12
+THR0023,Phishing,Sandworm,Low,,0.7,2024-09-20
+THR0024,Phishing,Lazarus Group,Low,CVE-2023-81931,,2026-04-13
+THR0025,Phishing,Scattered Spider,Critical,CVE-2019-8361,2.1,2024-06-24
+THR0026,Phishing,FIN7,Low,CVE-2019-1503,4.4,2022-02-03
+THR0027,ransomware,Lazarus Group,Critical,CVE-2026-26249,,2025-02-27
+THR0028,supply chain attack,FIN7,Critical,,6.8,2025-03-03
+THR0029,credential stuffing,FIN7,Low,,1.8,2022-06-20
+THR0030,man-in-the-middle,Sandworm,Critical,,,2025-06-27
+THR0031,sql injection,FIN7,Critical,CVE-2022-79846,4.2,2022-11-27
+THR0032,insider threat,Unknown,Critical,CVE-2021-70540,8.9,2025-06-12
+THR0033,malware,Unknown,Critical,,5.0,2023-08-10
+THR0034,ransomware,APT41,Low,CVE-2025-2572,,2025-08-02
+THR0035,supply chain attack,Scattered Spider,Critical,CVE-2019-75606,,2021-07-18
+THR0036,zero-day exploit,Unknown,High,CVE-2025-42087,5.5,2022-10-18
+THR0037,supply chain attack,FIN7,Low,CVE-2024-61941,,2022-03-19
+THR0038,credential stuffing,Unknown,Critical,,7.4,2021-08-14
+THR0039,ddos,Scattered Spider,Critical,CVE-2020-53352,4.4,2024-10-01
+THR0040,ddos,FIN7,Low,CVE-2021-13431,,2025-04-21
+THR0041,zero-day exploit,Sandworm,Low,CVE-2020-40783,,2021-11-19
+THR0042,sql injection,Sandworm,Critical,CVE-2025-57735,,2023-10-26
+THR0043,Phishing,APT29,High,CVE-2019-43373,7.1,2026-01-16
+THR0044,sql injection,unknown,Critical,CVE-2024-65291,0.2,2022-03-25
+THR0045,zero-day exploit,Unknown,Critical,CVE-2019-79527,2.9,2024-08-15
+THR0046,zero-day exploit,FIN7,High,CVE-2025-9273,0.3,2024-04-08
+THR0047,sql injection,Scattered Spider,Critical,,,2024-06-17
+THR0048,malware,unknown,High,CVE-2023-92531,,2025-04-14
+THR0049,Phishing,Sandworm,Critical,CVE-2021-33649,4.9,2022-01-11
+THR0050,zero-day exploit,unknown,Low,CVE-2020-82737,,2022-11-10
+THR0051,supply chain attack,Unknown,Low,CVE-2021-37203,7.1,2022-11-15
+THR0052,credential stuffing,Sandworm,Medium,CVE-2023-47683,8.3,2025-01-09
+THR0053,malware,Scattered Spider,Critical,CVE-2026-27222,6.5,2023-10-05
+THR0054,supply chain attack,Lazarus Group,High,CVE-2021-69616,,2022-04-22
+THR0055,insider threat,APT29,High,,0.4,2022-02-18
+THR0056,Phishing,APT41,Low,CVE-2020-59547,5.6,2026-04-10
+THR0057,credential stuffing,Scattered Spider,Low,CVE-2025-37169,,2022-02-10
+THR0058,ddos,FIN7,High,CVE-2019-7871,,2025-10-31
+THR0059,ddos,Scattered Spider,Critical,CVE-2026-4337,,2024-04-03
+THR0060,ddos,Scattered Spider,Low,CVE-2018-85360,5.7,2023-05-03
+THR0061,ransomware,unknown,Low,CVE-2020-66100,0.7,2023-01-25
+THR0062,Phishing,unknown,Medium,CVE-2021-13040,,2025-02-04
+THR0063,Phishing,APT41,High,CVE-2025-53502,5.3,2024-03-30
+THR0064,insider threat,FIN7,Low,CVE-2021-59785,,2024-08-20
+THR0065,sql injection,Sandworm,Low,CVE-2026-4175,0.6,2024-09-21
+THR0066,credential stuffing,APT29,Low,,2.4,2023-06-21
+THR0067,man-in-the-middle,Scattered Spider,High,CVE-2024-3523,5.2,2023-02-15
+THR0068,Phishing,APT41,Low,,2.1,2025-09-03
+THR0069,supply chain attack,Unknown,Low,CVE-2019-77229,8.8,2021-08-31
+THR0070,insider threat,Sandworm,Medium,CVE-2022-35818,5.6,2022-11-27
+THR0071,sql injection,Unknown,High,,4.0,2024-04-27
+THR0072,malware,Unknown,Low,CVE-2026-54174,,2024-05-02
+THR0073,Phishing,Sandworm,Medium,CVE-2022-91406,,2025-11-28
+THR0074,zero-day exploit,Unknown,Low,CVE-2021-75297,8.9,2021-10-09
+THR0075,man-in-the-middle,APT29,High,,8.3,2025-01-29
+THR0076,credential stuffing,APT41,Critical,CVE-2024-79880,,2022-02-24
+THR0077,man-in-the-middle,Unknown,Critical,CVE-2021-11180,6.2,2021-10-23
+THR0078,supply chain attack,APT29,Critical,,,2021-10-31
+THR0079,insider threat,FIN7,Low,,,2022-04-01
+THR0080,ddos,Scattered Spider,Low,,6.6,2024-02-09
+THR0081,Phishing,Unknown,Medium,,9.3,2026-03-12
+THR0082,Phishing,APT29,Critical,,,2022-09-01
+THR0083,supply chain attack,unknown,High,,4.8,2025-04-07
+THR0084,ddos,FIN7,Medium,,,2026-05-10
+THR0085,insider threat,Unknown,Critical,,9.0,2023-03-08
+THR0086,Phishing,Unknown,Critical,,4.8,2023-07-22
+THR0087,Phishing,Unknown,Critical,,8.1,2025-03-31
+THR0088,ransomware,APT41,Low,CVE-2025-31345,,2023-12-15
+THR0089,zero-day exploit,Lazarus Group,Low,CVE-2025-72380,,2024-03-20
+THR0090,ddos,unknown,Low,,7.4,2024-02-12
+THR0091,supply chain attack,APT41,High,CVE-2023-39331,,2024-09-13
+THR0092,Phishing,unknown,Critical,CVE-2024-12330,,2023-06-22
+THR0093,zero-day exploit,Unknown,Critical,CVE-2020-6604,9.2,2022-04-08
+THR0094,ddos,Scattered Spider,Low,CVE-2020-76195,1.5,2025-08-10
+THR0095,ddos,APT41,Low,CVE-2019-66717,5.2,2025-07-25
+THR0096,ransomware,Unknown,Low,CVE-2020-97955,,2023-09-26
+THR0097,credential stuffing,Lazarus Group,High,CVE-2023-72886,,2022-01-25
+THR0098,sql injection,Scattered Spider,Critical,CVE-2019-30597,4.6,2026-01-19
+THR0099,sql injection,APT29,Critical,CVE-2019-65907,,2022-10-18
+THR0100,sql injection,APT41,High,CVE-2026-84656,1.1,2022-09-09
+THR0101,ransomware,APT29,High,,1.9,2024-09-18
+THR0102,Phishing,Unknown,Critical,CVE-2024-47860,0.2,2024-04-12
+THR0103,malware,Scattered Spider,Critical,CVE-2022-57167,9.2,2021-10-02
+THR0104,supply chain attack,APT29,Critical,CVE-2018-66535,0.4,2025-09-15
+THR0105,credential stuffing,APT41,Critical,CVE-2019-56404,,2022-08-15
+THR0106,Phishing,Unknown,Low,CVE-2025-12380,4.8,2021-09-14
+THR0107,sql injection,Lazarus Group,Critical,CVE-2023-32637,,2022-08-03
+THR0108,malware,unknown,Critical,CVE-2025-29384,1.0,2022-08-28
+THR0109,ddos,APT29,Low,CVE-2026-24754,,2022-04-03
+THR0110,man-in-the-middle,APT29,High,CVE-2026-65369,1.8,2025-11-05
+THR0111,ransomware,Unknown,Low,CVE-2019-91021,1.6,2023-12-30
+THR0112,credential stuffing,Unknown,Medium,,7.8,2023-02-09
+THR0113,insider threat,APT29,High,,,2025-04-10
+THR0114,sql injection,Unknown,Critical,CVE-2019-14308,1.4,2024-11-04
+THR0115,supply chain attack,APT29,Critical,CVE-2024-3691,,2021-08-03
+THR0116,Phishing,unknown,Low,CVE-2018-37556,4.4,2025-04-27
+THR0117,Phishing,Lazarus Group,High,CVE-2023-63210,4.1,2023-12-15
+THR0118,Phishing,APT29,Medium,,2.0,2024-11-03
+THR0119,man-in-the-middle,Scattered Spider,Low,,0.8,2024-12-23
+THR0120,supply chain attack,APT41,Low,CVE-2021-27535,1.4,2024-03-29
+THR0121,insider threat,APT29,High,,1.2,2021-09-10
+THR0122,malware,unknown,Low,CVE-2020-42881,9.2,2024-06-10
+THR0123,sql injection,Unknown,Critical,CVE-2019-23599,6.4,2022-07-15
+THR0124,Phishing,FIN7,Critical,,5.1,2024-05-28
+THR0125,credential stuffing,unknown,Low,CVE-2021-83174,,2021-07-12
+THR0126,sql injection,Unknown,Critical,,,2025-01-01
+THR0127,ransomware,Sandworm,Critical,CVE-2023-52219,4.6,2024-05-26
+THR0128,ddos,FIN7,Critical,CVE-2026-54284,6.5,2023-05-02
+THR0129,sql injection,unknown,High,CVE-2019-57720,4.2,2025-12-26
+THR0130,Phishing,FIN7,Critical,CVE-2023-37357,,2022-04-24
+THR0131,malware,unknown,Low,CVE-2022-62592,3.9,2022-07-22
+THR0132,supply chain attack,unknown,Critical,CVE-2020-62515,,2024-03-04
+THR0133,man-in-the-middle,unknown,Low,CVE-2022-83460,,2026-01-26
+THR0134,supply chain attack,unknown,Medium,CVE-2023-32380,,2025-03-19
+THR0135,sql injection,Scattered Spider,Low,CVE-2022-35591,6.0,2022-11-25
+THR0136,supply chain attack,FIN7,Critical,CVE-2022-25899,3.7,2024-04-10
+THR0137,man-in-the-middle,Scattered Spider,Medium,CVE-2026-23729,,2024-01-18
+THR0138,Phishing,Sandworm,Medium,CVE-2023-24996,,2022-04-17
+THR0139,sql injection,APT41,Critical,CVE-2025-71439,3.5,2022-07-02
+THR0140,malware,Lazarus Group,Critical,CVE-2024-1428,,2024-07-13
+THR0141,credential stuffing,Unknown,Low,CVE-2022-67993,5.7,2023-03-02
+THR0142,insider threat,Unknown,Low,,4.4,2023-02-16
+THR0143,ddos,Lazarus Group,High,CVE-2018-6378,2.8,2022-10-17
+THR0144,man-in-the-middle,Unknown,Medium,CVE-2024-27855,0.5,2022-02-01
+THR0145,ransomware,Lazarus Group,High,CVE-2022-38249,2.4,2022-12-02
+THR0146,supply chain attack,Unknown,Low,CVE-2021-20884,0.3,2021-08-20
+THR0147,ddos,APT41,Medium,CVE-2018-22023,,2024-07-05
+THR0148,credential stuffing,Lazarus Group,Low,,2.5,2024-10-01
+THR0149,ddos,FIN7,Medium,,,2024-01-20
+THR0150,supply chain attack,APT41,Critical,,0.9,2023-07-10
+THR0151,credential stuffing,Unknown,Medium,CVE-2024-81616,,2022-06-01
+THR0152,sql injection,Unknown,Critical,CVE-2026-45864,5.0,2021-09-13
+THR0153,insider threat,Unknown,Low,,0.9,2025-07-08
+THR0154,Phishing,APT41,Medium,CVE-2021-29564,3.2,2025-03-17
+THR0155,ddos,Unknown,Medium,CVE-2025-4181,5.7,2025-11-12
+THR0156,ddos,Lazarus Group,Critical,CVE-2018-51969,5.8,2022-06-29
+THR0157,credential stuffing,APT41,Critical,CVE-2024-12725,,2024-05-05
+THR0158,zero-day exploit,Unknown,Critical,,5.9,2025-03-25
+THR0159,supply chain attack,unknown,Critical,,0.5,2025-08-28
+THR0160,sql injection,Lazarus Group,Critical,CVE-2019-81668,7.0,2024-11-11
+THR0161,man-in-the-middle,Unknown,Critical,,1.5,2025-12-04
+THR0162,sql injection,APT41,High,,8.7,2025-08-01
+THR0163,ransomware,FIN7,High,CVE-2024-23010,2.4,2023-04-19
+THR0164,supply chain attack,Lazarus Group,Low,CVE-2022-24426,7.8,2021-10-06
+THR0165,zero-day exploit,FIN7,Medium,CVE-2020-33197,7.9,2024-08-15
+THR0166,malware,unknown,Critical,,5.1,2024-04-29
+THR0167,ddos,APT29,Critical,,,2025-11-30
+THR0168,supply chain attack,Unknown,Critical,,1.8,2022-10-03
+THR0169,ddos,APT29,Low,CVE-2020-1075,,2024-01-18
+THR0170,Phishing,APT41,Low,CVE-2024-69819,6.5,2023-01-16
+THR0171,zero-day exploit,APT41,Critical,,,2022-07-29
+THR0172,ddos,APT29,Medium,,9.9,2022-05-25
+THR0173,supply chain attack,APT41,Critical,CVE-2023-4129,3.2,2023-03-01
+THR0174,sql injection,APT41,Critical,CVE-2020-59974,7.9,2023-12-28
+THR0175,ddos,Unknown,Critical,,,2025-02-03
+THR0176,malware,Unknown,Critical,CVE-2025-49702,,2025-02-03
+THR0177,ransomware,Sandworm,Medium,CVE-2019-39721,,2023-10-13
+THR0178,Phishing,APT41,Low,CVE-2023-68182,,2023-06-12
+THR0179,Phishing,Scattered Spider,High,,9.2,2025-04-06
+THR0180,ddos,unknown,High,,,2026-02-05
+THR0181,ransomware,Unknown,Critical,CVE-2025-46472,6.3,2023-11-23
+THR0182,man-in-the-middle,Lazarus Group,Critical,CVE-2024-68367,7.8,2024-06-23
+THR0183,ddos,unknown,Low,CVE-2020-50535,7.2,2025-06-20
+THR0184,ddos,Unknown,Medium,,,2024-10-29
+THR0185,malware,APT41,Medium,,3.1,2026-03-08
+THR0186,insider threat,Sandworm,Critical,CVE-2020-56956,5.5,2021-11-17
+THR0187,ransomware,Lazarus Group,Medium,CVE-2022-96320,,2022-01-10
+THR0188,ddos,Unknown,Low,,9.0,2021-06-29
+THR0189,ddos,Scattered Spider,Critical,CVE-2022-76634,8.9,2021-08-25
+THR0190,zero-day exploit,Scattered Spider,Low,,7.2,2021-09-28
+THR0191,Phishing,Unknown,Critical,CVE-2021-30648,,2021-07-19
+THR0192,zero-day exploit,unknown,High,CVE-2024-7722,,2022-11-12
+THR0193,Phishing,FIN7,Low,,7.9,2021-06-29
+THR0194,credential stuffing,FIN7,Low,CVE-2026-48578,4.1,2023-09-20
+THR0195,zero-day exploit,Unknown,Low,,9.5,2025-02-19
+THR0196,Phishing,Scattered Spider,Low,CVE-2024-21191,,2026-04-20
+THR0197,zero-day exploit,Lazarus Group,High,,,2021-12-23
+THR0198,supply chain attack,Sandworm,Critical,CVE-2021-38547,,2023-05-02
+THR0199,ddos,Scattered Spider,Low,CVE-2019-14193,0.9,2024-09-20
+THR0200,ddos,unknown,Critical,CVE-2019-92407,6.5,2026-05-07
+THR0201,credential stuffing,FIN7,Low,,3.7,2025-03-15
+THR0202,ddos,Scattered Spider,Critical,CVE-2018-22655,8.9,2023-05-11
+THR0203,supply chain attack,Lazarus Group,Low,CVE-2021-23273,,2022-11-22
+THR0204,Phishing,Unknown,Low,,0.8,2024-10-05
+THR0205,malware,FIN7,Low,CVE-2022-21629,6.5,2022-12-24
+THR0206,credential stuffing,Sandworm,Critical,,4.0,2021-08-31
+THR0207,ddos,Unknown,Critical,CVE-2026-41160,,2022-02-03
+THR0208,insider threat,Sandworm,Critical,CVE-2022-88327,3.3,2022-03-15
+THR0209,ddos,FIN7,Low,,5.9,2023-10-11
+THR0210,credential stuffing,FIN7,Medium,CVE-2022-44611,5.8,2026-02-26
+THR0211,credential stuffing,APT41,Critical,,9.4,2026-05-30
+THR0212,ddos,Unknown,Critical,,4.8,2026-01-24
+THR0213,insider threat,Sandworm,High,,,2022-02-03
+THR0214,insider threat,FIN7,Critical,CVE-2024-93948,,2024-09-04
+THR0215,ddos,APT41,Critical,CVE-2020-1975,,2026-04-04
+THR0216,insider threat,Lazarus Group,Critical,CVE-2023-20420,1.5,2025-06-16
+THR0217,supply chain attack,Unknown,High,CVE-2020-55771,,2025-11-23
+THR0218,ddos,Scattered Spider,Critical,CVE-2023-1358,7.7,2026-02-25
+THR0219,sql injection,Sandworm,Medium,CVE-2026-36841,8.9,2022-05-13
+THR0220,supply chain attack,Sandworm,Critical,CVE-2018-60631,,2022-01-20
+THR0221,man-in-the-middle,Unknown,Low,,0.3,2025-02-12
+THR0222,credential stuffing,APT41,Critical,CVE-2021-42311,,2023-10-08
+THR0223,malware,APT29,Critical,,,2025-12-04
+THR0224,ransomware,unknown,Medium,,,2024-12-19
+THR0225,ransomware,APT41,Low,CVE-2022-71157,,2022-11-10
+THR0226,ransomware,unknown,Critical,CVE-2022-79675,5.0,2021-08-09
+THR0227,sql injection,unknown,Critical,CVE-2019-31780,4.0,2024-04-23
+THR0228,zero-day exploit,FIN7,Low,CVE-2018-90795,4.4,2021-10-22
+THR0229,credential stuffing,APT29,Low,,2.7,2024-12-13
+THR0230,malware,Unknown,Critical,,,2022-07-27
+THR0231,Phishing,Unknown,High,CVE-2026-84757,0.8,2023-06-25
+THR0232,ransomware,Sandworm,Low,CVE-2022-24458,1.2,2023-05-19
+THR0233,man-in-the-middle,unknown,Critical,CVE-2025-88555,,2021-09-04
+THR0234,Phishing,Scattered Spider,Medium,CVE-2021-72474,7.3,2023-08-28
+THR0235,Phishing,Lazarus Group,Medium,,8.2,2023-10-27
+THR0236,sql injection,Unknown,Critical,CVE-2018-45588,,2022-05-14
+THR0237,Phishing,unknown,Critical,CVE-2021-22957,6.4,2021-07-23
+THR0238,ddos,Lazarus Group,Critical,,,2025-12-24
+THR0239,man-in-the-middle,Unknown,Critical,CVE-2023-27098,9.0,2024-10-10
+THR0240,ransomware,Scattered Spider,Low,CVE-2023-86028,3.5,2026-04-16
+THR0241,zero-day exploit,Unknown,Low,,1.1,2025-11-16
+THR0242,supply chain attack,FIN7,Critical,CVE-2026-96145,7.6,2025-01-15
+THR0243,Phishing,Scattered Spider,Medium,CVE-2024-39463,,2025-02-01
+THR0244,Phishing,FIN7,Critical,,,2022-07-04
+THR0245,insider threat,Lazarus Group,Low,CVE-2025-41420,7.4,2022-10-30
+THR0246,malware,Scattered Spider,Medium,CVE-2020-69806,,2024-11-06
+THR0247,Phishing,Lazarus Group,High,CVE-2023-17217,1.9,2026-04-23
+THR0248,sql injection,APT29,High,CVE-2026-99938,8.6,2022-06-07
+THR0249,man-in-the-middle,unknown,High,CVE-2022-14164,9.0,2024-12-10
+THR0250,malware,APT41,Low,CVE-2022-98136,0.8,2025-07-18
+THR0251,ransomware,Lazarus Group,Critical,,8.1,2026-06-22
+THR0252,malware,FIN7,Low,CVE-2021-11749,1.9,2021-09-17
+THR0253,ddos,Lazarus Group,Critical,CVE-2025-29628,1.4,2024-04-22
+THR0254,Phishing,unknown,Medium,CVE-2018-90313,2.8,2025-10-11
+THR0255,sql injection,Unknown,Low,,,2024-04-15
+THR0256,sql injection,unknown,High,CVE-2024-78433,,2025-01-03
+THR0257,sql injection,Lazarus Group,Critical,CVE-2025-1190,9.8,2025-06-14
+THR0258,ddos,Unknown,Critical,,1.9,2025-01-26
+THR0259,Phishing,Sandworm,Medium,CVE-2021-33767,7.3,2025-03-16
+THR0260,insider threat,FIN7,Medium,,1.2,2022-12-04
+THR0261,ddos,Lazarus Group,Critical,CVE-2024-15018,3.5,2021-12-07
+THR0262,ddos,Lazarus Group,Critical,CVE-2024-50640,,2023-05-01
+THR0263,Phishing,Sandworm,Critical,CVE-2021-52014,8.7,2025-08-06
+THR0264,sql injection,Unknown,Critical,CVE-2024-7413,2.6,2024-03-19
+THR0265,ransomware,APT29,Critical,CVE-2022-27717,4.2,2023-05-11
+THR0266,malware,Unknown,Medium,CVE-2018-63027,5.3,2026-01-01
+THR0267,credential stuffing,Scattered Spider,High,CVE-2025-27335,,2025-02-14
+THR0268,insider threat,Unknown,Medium,CVE-2025-18496,,2024-03-12
+THR0269,insider threat,Sandworm,Low,CVE-2020-15394,,2023-02-04
+THR0270,ddos,Lazarus Group,High,CVE-2026-41660,0.3,2024-09-09
+THR0271,Phishing,Sandworm,High,,9.6,2023-07-12
+THR0272,supply chain attack,unknown,Medium,CVE-2026-1441,0.3,2024-05-24
+THR0273,man-in-the-middle,APT41,Low,CVE-2025-26351,7.4,2023-05-09
+THR0274,insider threat,Unknown,Critical,CVE-2021-83424,8.4,2026-05-30
+THR0275,supply chain attack,Scattered Spider,Low,CVE-2021-33097,,2025-04-30
+THR0276,credential stuffing,Sandworm,Low,CVE-2021-57468,9.6,2022-03-25
+THR0277,Phishing,FIN7,Medium,CVE-2018-27864,5.4,2024-11-08
+THR0278,Phishing,Lazarus Group,Critical,CVE-2026-58839,7.2,2025-12-09
+THR0279,sql injection,Scattered Spider,Low,,0.2,2024-11-14
+THR0280,malware,Unknown,Medium,,9.2,2023-07-14
+THR0281,malware,unknown,Critical,CVE-2021-6789,4.8,2026-04-20
+THR0282,Phishing,APT29,Critical,CVE-2021-54976,1.1,2021-12-03
+THR0283,supply chain attack,Sandworm,Low,,,2022-10-04
+THR0284,credential stuffing,unknown,Critical,,9.8,2022-03-07
+THR0285,ransomware,Unknown,Medium,,7.4,2026-02-12
+THR0286,ddos,Sandworm,Critical,,4.7,2024-09-20
+THR0287,credential stuffing,Sandworm,Low,,1.3,2023-09-30
+THR0288,zero-day exploit,Unknown,Critical,CVE-2020-91166,,2024-03-10
+THR0289,insider threat,APT29,Medium,CVE-2026-23950,6.9,2024-11-22
+THR0290,Phishing,FIN7,Medium,,4.4,2025-12-10
+THR0291,ddos,Unknown,Critical,CVE-2026-89754,9.0,2023-03-18
+THR0292,supply chain attack,Scattered Spider,Critical,,5.4,2026-01-31
+THR0293,sql injection,Unknown,Critical,,,2026-05-29
+THR0294,malware,Sandworm,Critical,CVE-2018-26725,3.8,2022-03-21
+THR0295,credential stuffing,Lazarus Group,Critical,CVE-2020-8050,2.4,2023-03-15
+THR0296,man-in-the-middle,Unknown,Critical,CVE-2020-7924,5.2,2024-08-27
+THR0297,ddos,Sandworm,Low,CVE-2026-10721,,2025-03-20
+THR0298,man-in-the-middle,unknown,Low,,3.4,2025-09-30
+THR0299,ransomware,APT41,Critical,CVE-2021-19312,2.3,2024-05-12
+THR0300,Phishing,unknown,Medium,CVE-2019-56328,5.5,2026-05-19
+THR0301,zero-day exploit,Unknown,Medium,CVE-2023-4926,0.4,2025-06-15
+THR0302,Phishing,APT29,Critical,CVE-2018-11962,7.6,2025-08-13
+THR0303,supply chain attack,Lazarus Group,Low,CVE-2025-13879,9.0,2023-06-23
+THR0304,zero-day exploit,APT29,Critical,CVE-2018-95270,,2025-08-11
+THR0305,Phishing,Lazarus Group,Critical,CVE-2022-99635,1.7,2025-11-24
+THR0306,ddos,unknown,Critical,,5.3,2026-06-12
+THR0307,ddos,Unknown,Low,CVE-2018-42171,,2024-03-18
+THR0308,credential stuffing,APT29,Low,CVE-2018-87774,,2024-02-03
+THR0309,Phishing,Scattered Spider,Low,CVE-2026-37055,4.1,2024-05-15
+THR0310,Phishing,Sandworm,Critical,,,2022-10-07
+THR0311,zero-day exploit,APT29,High,CVE-2020-76605,0.5,2024-03-30
+THR0312,ransomware,Unknown,Low,CVE-2021-54763,,2026-03-16
+THR0313,supply chain attack,Scattered Spider,Critical,CVE-2026-25217,1.3,2025-03-11
+THR0314,Phishing,APT41,High,CVE-2019-73848,,2024-11-29
+THR0315,Phishing,Unknown,Critical,CVE-2026-63081,9.3,2025-06-07
+THR0316,sql injection,APT41,Critical,CVE-2026-85900,0.7,2023-12-09
+THR0317,Phishing,Lazarus Group,Medium,CVE-2022-96156,5.8,2023-02-13
+THR0318,Phishing,Unknown,Critical,,8.8,2025-09-04
+THR0319,ddos,Scattered Spider,Critical,CVE-2026-57477,,2023-05-12
+THR0320,Phishing,Unknown,Critical,,9.5,2026-03-06
+THR0321,insider threat,FIN7,High,CVE-2023-39091,,2024-02-09
+THR0322,sql injection,Scattered Spider,High,CVE-2020-39513,8.7,2025-08-03
+THR0323,ransomware,Lazarus Group,Critical,CVE-2024-37672,5.2,2022-08-03
+THR0324,man-in-the-middle,APT29,Critical,,2.5,2023-04-01
+THR0325,man-in-the-middle,unknown,Medium,CVE-2022-44457,1.4,2023-07-14
+THR0326,ddos,APT29,Critical,CVE-2018-38971,,2025-04-02
+THR0327,sql injection,Sandworm,Medium,,3.6,2022-01-09
+THR0328,malware,Scattered Spider,Critical,,7.3,2024-09-11
+THR0329,Phishing,Lazarus Group,Critical,CVE-2026-62138,7.9,2023-10-05
+THR0330,ransomware,Sandworm,Medium,CVE-2021-65563,,2025-08-31
+THR0331,sql injection,APT29,Critical,CVE-2019-11992,6.2,2025-12-20
+THR0332,credential stuffing,Scattered Spider,Critical,,8.6,2022-06-08
+THR0333,ddos,unknown,Low,,1.9,2021-06-30
+THR0334,supply chain attack,Lazarus Group,High,CVE-2019-73055,1.4,2025-06-17
+THR0335,sql injection,APT41,High,CVE-2025-35588,8.2,2024-01-06
+THR0336,Phishing,APT41,Low,CVE-2021-52348,3.7,2022-01-11
+THR0337,ransomware,Lazarus Group,High,CVE-2019-69938,6.4,2022-03-19
+THR0338,man-in-the-middle,Unknown,Medium,,5.3,2021-11-07
+THR0339,supply chain attack,FIN7,Critical,CVE-2021-23360,8.2,2026-03-30
+THR0340,supply chain attack,unknown,Medium,,,2022-09-13
+THR0341,Phishing,Lazarus Group,High,CVE-2022-18046,4.1,2023-07-10
+THR0342,ransomware,Scattered Spider,Critical,,,2025-08-14
+THR0343,insider threat,APT41,Critical,CVE-2026-91922,,2024-03-15
+THR0344,ransomware,APT29,Medium,CVE-2018-69191,,2021-12-22
+THR0345,supply chain attack,Lazarus Group,Critical,CVE-2018-51631,,2025-07-26
+THR0346,ddos,Sandworm,Low,CVE-2021-34295,,2021-08-10
+THR0347,man-in-the-middle,unknown,Medium,CVE-2019-64620,4.9,2021-08-24
+THR0348,Phishing,FIN7,Low,,2.7,2022-02-05
+THR0349,ransomware,Lazarus Group,Medium,CVE-2026-1649,8.0,2022-06-03
+THR0350,zero-day exploit,Unknown,Medium,CVE-2026-97555,8.9,2025-05-16
+THR0351,sql injection,Sandworm,Critical,CVE-2019-7999,3.8,2021-11-06
+THR0352,ddos,APT29,Low,CVE-2026-49266,9.9,2022-10-05
+THR0353,malware,Unknown,Low,,,2026-04-01
+THR0354,supply chain attack,FIN7,Critical,CVE-2024-82852,3.8,2023-08-08
+THR0355,malware,unknown,Critical,CVE-2025-12751,3.0,2023-04-13
+THR0356,zero-day exploit,APT41,Critical,CVE-2021-20258,3.4,2023-07-05
+THR0357,man-in-the-middle,Unknown,Low,CVE-2021-23953,8.9,2024-12-24
+THR0358,malware,FIN7,Critical,CVE-2024-74913,,2022-12-29
+THR0359,supply chain attack,APT29,Low,CVE-2024-84917,1.3,2023-06-07
+THR0360,Phishing,Unknown,Medium,CVE-2022-74617,7.3,2022-07-14
+THR0361,supply chain attack,Sandworm,High,CVE-2023-86221,2.5,2023-08-20
+THR0362,Phishing,unknown,Critical,,8.2,2024-06-10
+THR0363,zero-day exploit,APT41,Critical,,7.0,2023-11-20
+THR0364,insider threat,Scattered Spider,Low,CVE-2020-54245,3.7,2024-07-26
+THR0365,ddos,APT41,Critical,,,2021-09-13
+THR0366,zero-day exploit,APT41,Critical,,,2023-12-13
+THR0367,insider threat,Lazarus Group,Critical,CVE-2020-25941,,2021-08-25
+THR0368,Phishing,Unknown,Critical,,2.7,2023-02-02
+THR0369,supply chain attack,Unknown,Critical,CVE-2018-4860,8.3,2021-08-24
+THR0370,ransomware,APT29,Critical,CVE-2024-79694,4.0,2024-12-30
+THR0371,ransomware,Lazarus Group,Critical,CVE-2024-67047,2.1,2025-10-19
+THR0372,supply chain attack,Scattered Spider,Critical,CVE-2018-7280,9.5,2023-05-31
+THR0373,supply chain attack,Unknown,Low,,,2024-03-09
+THR0374,ransomware,Unknown,Critical,CVE-2026-26676,9.5,2021-12-25
+THR0375,insider threat,FIN7,Low,CVE-2021-84558,,2024-12-08
+THR0376,credential stuffing,Unknown,Low,,,2024-08-05
+THR0377,ddos,APT41,Critical,CVE-2020-79159,1.5,2023-04-01
+THR0378,ddos,Unknown,Critical,CVE-2025-51393,9.8,2026-05-08
+THR0379,ddos,Lazarus Group,Critical,CVE-2018-53072,,2023-12-11
+THR0380,Phishing,Sandworm,Medium,,,2021-08-17
+THR0381,zero-day exploit,FIN7,Medium,CVE-2024-15249,,2021-09-07
+THR0382,ransomware,Sandworm,Critical,CVE-2020-89871,1.1,2023-12-06
+THR0383,insider threat,Lazarus Group,Medium,CVE-2021-68278,,2026-01-09
+THR0384,credential stuffing,unknown,Low,CVE-2024-16894,4.5,2023-11-13
+THR0385,man-in-the-middle,Unknown,High,,9.6,2024-03-18
+THR0386,zero-day exploit,APT29,Medium,CVE-2022-67881,,2021-11-27
+THR0387,malware,Unknown,Low,,2.1,2025-02-11
+THR0388,insider threat,Unknown,Low,,,2025-01-26
+THR0389,Phishing,unknown,Medium,CVE-2019-2836,,2026-02-08
+THR0390,supply chain attack,unknown,Critical,,,2023-10-07
+THR0391,ddos,unknown,High,CVE-2025-96843,,2025-03-28
+THR0392,sql injection,unknown,Medium,CVE-2026-24228,,2022-09-12
+THR0393,ransomware,Scattered Spider,Medium,CVE-2025-97834,7.9,2026-05-31
+THR0394,man-in-the-middle,APT41,Critical,CVE-2019-60450,,2021-08-30
+THR0395,sql injection,APT41,Low,CVE-2020-3026,0.1,2023-01-16
+THR0396,ddos,Lazarus Group,Critical,CVE-2020-30348,6.3,2025-05-18
+THR0397,Phishing,APT41,Critical,CVE-2023-2944,,2025-10-07
+THR0398,Phishing,Unknown,Critical,CVE-2019-69529,6.5,2022-07-29
+THR0399,supply chain attack,FIN7,High,CVE-2025-99954,0.5,2023-07-19
+THR0400,man-in-the-middle,Unknown,Medium,CVE-2026-38854,7.9,2021-07-17
+THR0401,ddos,APT29,Critical,CVE-2018-80320,2.4,2022-02-18
+THR0402,insider threat,Unknown,Low,CVE-2020-40077,3.4,2025-10-22
+THR0403,supply chain attack,unknown,Low,CVE-2019-38167,6.3,2025-05-25
+THR0404,credential stuffing,APT29,Critical,CVE-2019-47784,2.4,2026-03-04
+THR0405,insider threat,Unknown,Critical,CVE-2026-87078,,2023-09-18
+THR0406,malware,APT41,Critical,,7.2,2024-01-02
+THR0407,credential stuffing,Unknown,Low,CVE-2024-72037,,2023-10-23
+THR0408,man-in-the-middle,Unknown,Critical,CVE-2020-42958,2.0,2024-12-23
+THR0409,ransomware,unknown,High,CVE-2018-53244,6.5,2023-06-08
+THR0410,zero-day exploit,APT29,Critical,,,2026-02-12
+THR0411,insider threat,APT41,Critical,CVE-2025-75605,0.5,2024-10-05
+THR0412,malware,unknown,Medium,CVE-2023-50090,1.9,2021-09-26
+THR0413,insider threat,Unknown,Low,CVE-2020-47271,8.3,2024-06-03
+THR0414,Phishing,Sandworm,Critical,CVE-2026-97909,,2024-12-25
+THR0415,sql injection,Sandworm,Low,CVE-2019-45588,2.7,2023-12-13
+THR0416,Phishing,Scattered Spider,Medium,CVE-2023-95689,,2026-01-02
+THR0417,insider threat,FIN7,Low,,2.3,2022-12-17
+THR0418,sql injection,Scattered Spider,Low,CVE-2023-14398,9.9,2022-04-22
+THR0419,Phishing,unknown,Critical,CVE-2023-4363,,2022-12-11
+THR0420,insider threat,unknown,High,,4.9,2023-02-24
+THR0421,malware,Unknown,Medium,,6.3,2022-01-15
+THR0422,man-in-the-middle,Lazarus Group,Critical,,4.9,2022-04-07
+THR0423,sql injection,unknown,Critical,CVE-2021-36275,,2025-09-05
+THR0424,sql injection,APT41,High,,,2022-06-27
+THR0425,sql injection,Lazarus Group,Medium,CVE-2023-82183,,2023-12-04
+THR0426,ddos,unknown,Low,,4.3,2021-07-09
+THR0427,ransomware,Unknown,Critical,,,2025-05-16
+THR0428,Phishing,APT29,Critical,CVE-2025-51191,6.2,2025-07-12
+THR0429,ddos,unknown,Critical,CVE-2020-63654,0.2,2026-01-08
+THR0430,man-in-the-middle,unknown,Low,CVE-2023-53716,,2025-05-10
+THR0431,man-in-the-middle,APT41,Critical,,7.8,2021-09-17
+THR0432,insider threat,Unknown,Low,CVE-2022-22966,7.1,2022-05-28
+THR0433,zero-day exploit,Unknown,Low,CVE-2024-48672,3.2,2023-03-12
+THR0434,supply chain attack,Unknown,Medium,CVE-2022-81528,9.7,2024-11-27
+THR0435,insider threat,Scattered Spider,Low,,8.5,2025-09-20
+THR0436,ddos,Unknown,High,CVE-2021-10535,9.6,2022-08-20
+THR0437,zero-day exploit,Scattered Spider,Low,,4.9,2023-09-19
+THR0438,sql injection,APT41,Low,CVE-2019-38212,8.5,2024-12-30
+THR0439,supply chain attack,APT41,Critical,CVE-2025-19883,5.0,2026-01-19
+THR0440,insider threat,Unknown,Critical,CVE-2022-85298,4.2,2021-12-31
+THR0441,zero-day exploit,unknown,Critical,CVE-2023-38737,9.6,2022-03-10
+THR0442,sql injection,FIN7,Critical,CVE-2019-97606,1.4,2025-03-12
+THR0443,sql injection,FIN7,Critical,CVE-2022-82797,1.0,2026-03-24
+THR0444,Phishing,unknown,Medium,CVE-2025-21991,,2024-04-22
+THR0445,ransomware,unknown,Medium,CVE-2024-68984,7.1,2023-09-07
+THR0446,ddos,Scattered Spider,Critical,CVE-2022-98888,,2023-04-29
+THR0447,credential stuffing,FIN7,Critical,,5.8,2024-12-26
+THR0448,supply chain attack,Lazarus Group,Low,CVE-2025-51123,5.6,2021-08-05
+THR0449,Phishing,APT41,Low,CVE-2020-95147,,2024-02-13
+THR0450,ddos,Lazarus Group,Critical,CVE-2021-59051,7.3,2024-12-17
+THR0451,Phishing,FIN7,Critical,CVE-2023-24827,5.8,2024-08-31
+THR0452,supply chain attack,Sandworm,Critical,CVE-2020-14213,8.0,2022-01-09
+THR0453,supply chain attack,Lazarus Group,Critical,CVE-2026-73175,,2023-11-11
+THR0454,Phishing,Scattered Spider,Critical,CVE-2026-27632,,2022-11-20
+THR0455,insider threat,Lazarus Group,Critical,CVE-2025-97615,7.5,2024-04-12
+THR0456,insider threat,Unknown,Medium,CVE-2023-35214,,2023-08-09
+THR0457,supply chain attack,Lazarus Group,Medium,CVE-2025-1352,1.9,2021-10-26
+THR0458,ddos,APT29,High,,4.7,2022-10-22
+THR0459,credential stuffing,Lazarus Group,Medium,CVE-2023-19124,5.6,2026-03-28
+THR0460,sql injection,FIN7,Medium,,6.8,2023-04-13
+THR0461,zero-day exploit,APT41,Critical,CVE-2018-72824,2.0,2023-07-02
+THR0462,malware,unknown,Critical,CVE-2025-68977,,2026-02-02
+THR0463,zero-day exploit,Sandworm,Critical,CVE-2023-88470,1.9,2026-01-10
+THR0464,man-in-the-middle,APT41,Low,CVE-2018-27475,0.3,2025-11-14
+THR0465,insider threat,Lazarus Group,Critical,CVE-2023-15349,4.7,2022-02-05
+THR0466,sql injection,Lazarus Group,Low,CVE-2020-96651,7.5,2022-04-20
+THR0467,ransomware,Lazarus Group,High,,8.7,2024-05-06
+THR0468,sql injection,APT29,Low,CVE-2018-76569,4.2,2024-10-25
+THR0469,Phishing,Unknown,Low,CVE-2019-20029,6.4,2023-09-22
+THR0470,ddos,Lazarus Group,Medium,,,2026-06-23
+THR0471,insider threat,Unknown,Critical,CVE-2018-16095,6.1,2023-05-12
+THR0472,Phishing,Lazarus Group,Critical,CVE-2020-24685,0.5,2022-10-22
+THR0473,credential stuffing,FIN7,Critical,CVE-2026-58361,2.1,2021-10-29
+THR0474,ddos,Sandworm,Low,,2.0,2025-06-11
+THR0475,man-in-the-middle,APT29,Critical,,,2022-06-02
+THR0476,man-in-the-middle,Lazarus Group,Medium,CVE-2022-24086,2.9,2023-07-24
+THR0477,Phishing,APT41,Critical,CVE-2023-2145,5.8,2024-04-16
+THR0478,ddos,Unknown,Critical,,6.0,2022-08-27
+THR0479,zero-day exploit,Scattered Spider,Critical,CVE-2019-98270,7.4,2022-03-25
+THR0480,ddos,Scattered Spider,Medium,CVE-2025-3239,,2022-02-27
+THR0481,Phishing,FIN7,High,,5.5,2024-12-31
+THR0482,zero-day exploit,APT41,High,CVE-2020-28788,8.5,2021-07-19
+THR0483,ddos,FIN7,Low,,4.9,2021-10-16
+THR0484,zero-day exploit,FIN7,Critical,,0.7,2025-06-07
+THR0485,supply chain attack,APT29,Critical,CVE-2019-57521,,2022-01-20
+THR0486,sql injection,FIN7,Medium,CVE-2026-86209,,2024-10-27
+THR0487,malware,FIN7,Critical,CVE-2018-30076,7.0,2024-06-02
+THR0488,sql injection,APT29,Low,,,2021-07-15
+THR0489,supply chain attack,Unknown,High,CVE-2022-82645,4.5,2025-11-23
+THR0490,zero-day exploit,Scattered Spider,High,CVE-2020-33256,2.6,2022-03-06
+THR0491,malware,Unknown,Critical,,0.5,2026-02-05
+THR0492,man-in-the-middle,Lazarus Group,Low,,,2025-10-18
+THR0493,man-in-the-middle,Sandworm,Low,CVE-2022-12793,4.9,2025-07-01
+THR0494,man-in-the-middle,APT29,Low,,7.3,2022-06-08
+THR0495,ddos,APT29,Critical,CVE-2023-93314,0.9,2023-11-13
+THR0496,ransomware,APT41,Critical,,,2023-11-20
+THR0497,Phishing,APT29,Critical,CVE-2023-70559,9.5,2021-12-26
+THR0498,insider threat,FIN7,Low,CVE-2018-3284,1.9,2023-06-07
+THR0499,man-in-the-middle,Scattered Spider,Critical,CVE-2024-79139,2.6,2024-08-29
+THR0500,man-in-the-middle,APT29,High,,6.7,2024-03-14
+THR0501,supply chain attack,APT41,Medium,CVE-2025-34321,,2025-07-06
+THR0502,ddos,Lazarus Group,High,CVE-2026-32529,,2022-03-22
+THR0503,ransomware,APT29,Low,CVE-2024-55369,,2022-02-15
+THR0504,Phishing,APT29,Critical,,,2024-01-16
+THR0505,Phishing,Unknown,Low,CVE-2018-3575,7.5,2025-10-19
+THR0506,man-in-the-middle,unknown,Low,CVE-2022-76257,2.6,2021-10-31
+THR0507,Phishing,Scattered Spider,Critical,,2.6,2024-01-22
+THR0508,supply chain attack,Unknown,Critical,CVE-2025-52773,,2026-06-06
+THR0509,Phishing,Sandworm,Critical,,4.7,2024-04-28
+THR0510,insider threat,APT41,Low,CVE-2022-14376,4.2,2022-09-23
+THR0511,ddos,Sandworm,Critical,,,2025-04-05
+THR0512,sql injection,Sandworm,Critical,,1.9,2025-09-10
+THR0513,ddos,unknown,Critical,CVE-2022-77397,1.2,2023-04-20
+THR0514,credential stuffing,APT29,Low,CVE-2022-22645,8.5,2022-08-14
+THR0515,ddos,APT29,Medium,CVE-2026-61390,8.2,2022-10-21
+THR0516,Phishing,Lazarus Group,Critical,,1.7,2021-10-16
+THR0517,Phishing,Unknown,Low,CVE-2026-11969,6.9,2023-08-27
+THR0518,supply chain attack,unknown,Low,CVE-2025-20215,,2025-11-05
+THR0519,ransomware,unknown,Low,CVE-2022-87702,5.1,2025-05-25
+THR0520,man-in-the-middle,APT41,High,CVE-2020-22065,,2021-08-18
+THR0521,man-in-the-middle,unknown,Critical,CVE-2025-67433,9.3,2024-11-07
+THR0522,ddos,APT29,Critical,,,2026-02-23
+THR0523,credential stuffing,Lazarus Group,Critical,CVE-2021-50840,,2023-06-12
+THR0524,Phishing,Lazarus Group,Medium,CVE-2025-89387,8.2,2024-07-10
+THR0525,supply chain attack,APT41,Low,CVE-2020-61733,4.0,2025-10-29
+THR0526,credential stuffing,APT29,High,,,2025-03-27
+THR0527,Phishing,APT41,Low,CVE-2018-65796,9.0,2022-02-16
+THR0528,credential stuffing,Unknown,Critical,CVE-2026-74162,,2024-07-26
+THR0529,Phishing,Unknown,Low,CVE-2024-24819,0.5,2025-06-12
+THR0530,insider threat,Unknown,Critical,CVE-2024-72669,2.7,2025-12-08
+THR0531,insider threat,APT29,High,CVE-2022-20882,0.2,2024-09-21
+THR0532,zero-day exploit,Lazarus Group,Critical,,9.8,2025-04-09
+THR0533,Phishing,APT41,High,CVE-2020-1044,5.1,2022-04-12
+THR0534,malware,unknown,Critical,CVE-2026-30878,6.2,2024-06-27
+THR0535,malware,APT41,Critical,,5.3,2022-12-06
+THR0536,supply chain attack,Lazarus Group,Critical,,8.3,2025-05-11
+THR0537,sql injection,Lazarus Group,Low,CVE-2021-47890,9.9,2023-08-28
+THR0538,ddos,Sandworm,Critical,CVE-2021-28963,4.8,2021-08-24
+THR0539,zero-day exploit,FIN7,Medium,,2.6,2021-10-28
+THR0540,insider threat,Scattered Spider,Critical,CVE-2018-22702,,2021-12-01
+THR0541,credential stuffing,FIN7,High,,1.1,2025-12-14
+THR0542,sql injection,Unknown,High,,5.7,2022-03-21
+THR0543,credential stuffing,Unknown,Critical,,7.0,2024-09-12
+THR0544,man-in-the-middle,unknown,Critical,,5.5,2023-05-05
+THR0545,insider threat,Unknown,Critical,CVE-2019-36585,2.8,2023-06-17
+THR0546,Phishing,Sandworm,Critical,CVE-2020-52710,9.5,2023-10-25
+THR0547,insider threat,unknown,Low,CVE-2021-92603,4.0,2025-07-12
+THR0548,man-in-the-middle,Unknown,High,CVE-2024-75346,3.2,2026-01-29
+THR0549,zero-day exploit,Scattered Spider,Low,,3.2,2023-01-04
+THR0550,Phishing,FIN7,Critical,CVE-2020-8679,,2024-03-02
+THR0551,sql injection,APT41,Critical,,,2023-02-16
+THR0552,Phishing,APT29,Medium,CVE-2026-99658,7.7,2023-01-12
+THR0553,insider threat,Scattered Spider,Medium,CVE-2020-14108,,2026-03-27
+THR0554,supply chain attack,APT29,Critical,CVE-2018-4247,,2024-01-19
+THR0555,ddos,Unknown,Low,CVE-2022-24452,,2023-06-04
+THR0556,Phishing,Unknown,Critical,CVE-2026-81398,4.4,2025-11-06
+THR0557,zero-day exploit,APT41,High,,,2024-12-07
+THR0558,insider threat,Scattered Spider,Critical,CVE-2023-71453,,2024-12-20
+THR0559,zero-day exploit,Sandworm,Medium,CVE-2018-56725,,2026-02-10
+THR0560,malware,APT41,Critical,CVE-2020-55884,3.4,2024-07-08
+THR0561,insider threat,Scattered Spider,Low,CVE-2021-8038,,2024-10-18
+THR0562,ddos,FIN7,Low,,,2024-05-12
+THR0563,insider threat,Unknown,Critical,CVE-2022-53590,1.4,2023-11-03
+THR0564,insider threat,APT29,Low,,2.9,2021-12-12
+THR0565,zero-day exploit,unknown,Critical,CVE-2026-68773,6.4,2023-12-10
+THR0566,man-in-the-middle,APT29,Low,CVE-2026-52915,5.0,2023-03-16
+THR0567,ddos,Sandworm,Critical,,,2024-01-29
+THR0568,credential stuffing,APT29,Critical,,,2024-08-25
+THR0569,ddos,APT41,Low,,1.2,2022-10-01
+THR0570,man-in-the-middle,Unknown,Medium,CVE-2025-45846,3.5,2022-11-01
+THR0571,ddos,APT41,Critical,CVE-2018-61450,9.7,2022-11-06
+THR0572,ddos,Scattered Spider,High,CVE-2020-41601,6.8,2022-12-08
+THR0573,sql injection,unknown,High,CVE-2023-99621,9.8,2024-01-23
+THR0574,Phishing,APT41,High,CVE-2023-38382,6.6,2023-01-21
+THR0575,sql injection,Lazarus Group,Low,,,2026-01-08
+THR0576,malware,unknown,Low,CVE-2025-90413,9.4,2026-01-11
+THR0577,credential stuffing,Unknown,Critical,CVE-2021-32836,6.5,2024-04-28
+THR0578,ddos,FIN7,Critical,,8.3,2023-03-27
+THR0579,insider threat,FIN7,Critical,,7.2,2023-01-09
+THR0580,man-in-the-middle,APT29,Critical,CVE-2024-33366,2.6,2025-08-15
+THR0581,Phishing,Sandworm,Low,CVE-2021-43598,7.2,2024-01-30
+THR0582,malware,Sandworm,High,CVE-2022-2548,9.2,2023-07-20
+THR0583,Phishing,Lazarus Group,Low,,4.5,2022-10-24
+THR0584,malware,unknown,Low,CVE-2023-23577,2.6,2023-08-12
+THR0585,zero-day exploit,Unknown,High,CVE-2026-28559,8.8,2024-10-15
+THR0586,Phishing,Unknown,Low,CVE-2025-93350,1.2,2025-05-02
+THR0587,Phishing,Scattered Spider,Medium,CVE-2019-20278,9.6,2025-12-12
+THR0588,Phishing,Unknown,Critical,CVE-2024-82539,4.3,2022-03-10
+THR0589,man-in-the-middle,unknown,Critical,,8.9,2025-05-05
+THR0590,malware,Scattered Spider,Critical,CVE-2020-63828,8.4,2022-12-19
+THR0591,ddos,Unknown,Critical,,8.6,2024-12-05
+THR0592,man-in-the-middle,APT41,Critical,,9.1,2023-04-20
+THR0593,Phishing,Sandworm,Low,CVE-2026-31862,2.5,2024-03-16
+THR0594,Phishing,unknown,Critical,,1.7,2023-02-05
+THR0595,sql injection,FIN7,Low,CVE-2018-94282,5.8,2025-06-26
+THR0596,ddos,Lazarus Group,Low,CVE-2018-25263,2.4,2024-05-26
+THR0597,Phishing,unknown,Critical,CVE-2024-16022,0.4,2022-05-11
+THR0598,supply chain attack,unknown,Critical,CVE-2024-16951,,2025-02-11
+THR0599,sql injection,Scattered Spider,Critical,CVE-2022-9088,2.4,2025-11-15
+THR0600,malware,Scattered Spider,Critical,,9.4,2024-09-07
