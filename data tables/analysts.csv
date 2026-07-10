@@ -1,0 +1,141 @@
+analyst_id,analyst_name,email,hire_date,shift,specialization,seniority_level
+ANL0001,Megan Robinson,megan.robinson@soccorp.com,2021-09-23,Night,Threat Hunting,L3
+ANL0002,Elizabeth Stout,elizabeth.stout@soccorp.com,2021-09-29,Day,Identity & Access,L1
+ANL0003,Patrick Burgess,patrick.burgess@soccorp.com,2024-12-15,Night,Network Security,L2
+ANL0004,Melissa Padilla,melissa.padilla@soccorp.com,2022-11-03,Night,General,L2
+ANL0005,Frank Campbell,frank.campbell@soccorp.com,2023-04-03,Day,Application Security,L3
+ANL0006,Elizabeth Ward,elizabeth.ward@soccorp.com,2025-09-19,Night,Malware Analysis,L3
+ANL0007,Robert Bowen,robert.bowen@soccorp.com,2024-12-31,Day,Cloud Security,L1
+ANL0008,Dale Edwards,dale.edwards@soccorp.com,2020-10-05,Evening,Threat Hunting,L1
+ANL0009,Natalie Smith,natalie.smith@soccorp.com,2023-10-08,Evening,Forensics,L1
+ANL0010,Michelle Phillips,michelle.phillips@soccorp.com,2021-08-27,Day,Network Security,Lead
+ANL0011,Kelly Sanchez,kelly.sanchez@soccorp.com,2023-10-02,Night,Cloud Security,L1
+ANL0012,Gail Hines,gail.hines@soccorp.com,2023-05-21,Evening,Forensics,L1
+ANL0013,Nancy Murray,nancy.murray@soccorp.com,2024-10-30,Night,Forensics,Lead
+ANL0014,Charles Payne,charles.payne@soccorp.com,2021-07-31,Night,General,L3
+ANL0015,Wanda Bernard,wanda.bernard@soccorp.com,2023-08-05,Night,Identity & Access,L1
+ANL0016,Angela Meyers,angela.meyers@soccorp.com,2020-10-11,Night,Application Security,L1
+ANL0017,Chad Mccoy,chad.mccoy@soccorp.com,2020-11-22,Night,Forensics,L3
+ANL0018,Daniel Bryant,daniel.bryant@soccorp.com,2020-11-06,Day,Malware Analysis,L3
+ANL0019,Taylor Durham,taylor.durham@soccorp.com,2024-05-24,Night,Application Security,L3
+ANL0020,Joseph Jenkins,joseph.jenkins@soccorp.com,2020-08-04,Night,Forensics,L2
+ANL0021,Kimberly Mitchell,kimberly.mitchell@soccorp.com,2023-06-19,Evening,Network Security,L1
+ANL0022,Jessica Case,jessica.case@soccorp.com,2021-07-21,Night,Cloud Security,L1
+ANL0023,Kelly Allen,kelly.allen@soccorp.com,2024-02-28,Day,Forensics,L3
+ANL0024,Hector Norton,hector.norton@soccorp.com,2020-12-16,Day,Identity & Access,L1
+ANL0025,Judy Sanchez,judy.sanchez@soccorp.com,2024-08-14,Night,Threat Hunting,L3
+ANL0026,Ronald Miller,ronald.miller@soccorp.com,2026-05-13,Evening,General,L1
+ANL0027,Amanda Sullivan,amanda.sullivan@soccorp.com,2022-09-22,Night,Cloud Security,L1
+ANL0028,Mark Warner,mark.warner@soccorp.com,2020-12-24,Evening,Forensics,L1
+ANL0029,Maria Rivera,maria.rivera@soccorp.com,2026-04-11,Night,Forensics,L1
+ANL0030,Stephanie Ellison,stephanie.ellison@soccorp.com,2021-11-07,Evening,Application Security,L1
+ANL0031,Melissa Knight,melissa.knight@soccorp.com,2022-02-05,Night,Threat Hunting,L1
+ANL0032,Melinda Ramirez,melinda.ramirez@soccorp.com,2023-09-16,Day,Application Security,L3
+ANL0033,Cassie Jefferson,cassie.jefferson@soccorp.com,2020-08-01,Night,General,L1
+ANL0034,Charles Hoover,charles.hoover@soccorp.com,2025-05-08,Night,Malware Analysis,Lead
+ANL0035,Elizabeth Elliott,elizabeth.elliott@soccorp.com,2023-11-06,Night,Malware Analysis,L1
+ANL0036,Megan Fernandez,megan.fernandez@soccorp.com,2022-10-06,Night,Identity & Access,L1
+ANL0037,Rachel Norris,rachel.norris@soccorp.com,2020-12-15,Evening,Cloud Security,L2
+ANL0038,Haley Davis,haley.davis@soccorp.com,2021-11-12,Night,General,L2
+ANL0039,Larry Austin,larry.austin@soccorp.com,2024-01-07,Night,Cloud Security,L1
+ANL0040,Erin Walters,erin.walters@soccorp.com,2025-02-17,Night,Cloud Security,L3
+ANL0041,Darren Tran,darren.tran@soccorp.com,2022-09-18,Day,General,L3
+ANL0042,Kevin James,kevin.james@soccorp.com,2025-01-23,Evening,Cloud Security,Lead
+ANL0043,David Jones,david.jones@soccorp.com,2022-01-29,Day,Cloud Security,L1
+ANL0044,Richard Moore,richard.moore@soccorp.com,2022-10-19,Day,Identity & Access,Lead
+ANL0045,Brandon Hahn,brandon.hahn@soccorp.com,2023-02-15,Day,Network Security,L1
+ANL0046,Ashley Miller,ashley.miller@soccorp.com,2023-01-16,Night,Application Security,L1
+ANL0047,Kayla Garcia,kayla.garcia@soccorp.com,2021-01-08,Night,Threat Hunting,L1
+ANL0048,Linda Mueller,linda.mueller@soccorp.com,2025-08-09,Night,Threat Hunting,L2
+ANL0049,Jason Maxwell,jason.maxwell@soccorp.com,2024-10-13,Night,Forensics,L2
+ANL0050,Wendy Sanchez,wendy.sanchez@soccorp.com,2023-07-30,Night,Forensics,L2
+ANL0051,Caroline Adams,caroline.adams@soccorp.com,2022-01-30,Day,Forensics,L3
+ANL0052,Christopher Hill,christopher.hill@soccorp.com,2022-04-08,Night,Application Security,Lead
+ANL0053,Heather Raymond,heather.raymond@soccorp.com,2024-10-04,Evening,Application Security,Lead
+ANL0054,Luis Ellis Jr.,luis.jr.@soccorp.com,2020-07-13,Evening,Cloud Security,Lead
+ANL0055,Ryan James,ryan.james@soccorp.com,2025-08-06,Evening,Cloud Security,L2
+ANL0056,Jeffrey Colon,jeffrey.colon@soccorp.com,2024-05-06,Night,Cloud Security,L1
+ANL0057,Elizabeth Morrison,elizabeth.morrison@soccorp.com,2024-08-10,Night,Network Security,Lead
+ANL0058,Christopher Sanders,christopher.sanders@soccorp.com,2022-05-19,Night,Network Security,L1
+ANL0059,Mackenzie Faulkner,mackenzie.faulkner@soccorp.com,2025-02-13,Night,Malware Analysis,L1
+ANL0060,Douglas Hartman,douglas.hartman@soccorp.com,2022-08-27,Day,Malware Analysis,Lead
+ANL0061,Christina Osborn,christina.osborn@soccorp.com,2021-07-23,Day,Forensics,Lead
+ANL0062,Alyssa Acosta,alyssa.acosta@soccorp.com,2026-01-27,Evening,Network Security,L3
+ANL0063,Robert Guerra,robert.guerra@soccorp.com,2020-11-25,Day,Forensics,L1
+ANL0064,Rebecca Chambers,rebecca.chambers@soccorp.com,2021-04-25,Evening,Identity & Access,L1
+ANL0065,David Moore,david.moore@soccorp.com,2022-12-30,Night,Malware Analysis,L3
+ANL0066,Jerry Harper,jerry.harper@soccorp.com,2023-12-09,Day,General,L2
+ANL0067,Tammy Kane,tammy.kane@soccorp.com,2022-12-20,Night,Threat Hunting,L3
+ANL0068,Warren Miles,warren.miles@soccorp.com,2025-04-20,Night,Cloud Security,L1
+ANL0069,Suzanne Rodriguez,suzanne.rodriguez@soccorp.com,2021-12-17,Evening,General,L3
+ANL0070,Carol Salazar,carol.salazar@soccorp.com,2023-10-29,Day,Malware Analysis,L1
+ANL0071,Maria Rasmussen,maria.rasmussen@soccorp.com,2022-06-15,Night,General,L2
+ANL0072,Ashley Garcia,ashley.garcia@soccorp.com,2021-10-21,Night,Malware Analysis,L1
+ANL0073,Kristin Watts,kristin.watts@soccorp.com,2021-10-19,Night,Threat Hunting,Lead
+ANL0074,Joel Frazier,joel.frazier@soccorp.com,2024-07-30,Night,Forensics,Lead
+ANL0075,Zachary Webb,zachary.webb@soccorp.com,2022-03-29,Evening,Network Security,L3
+ANL0076,Angelica Guerra,angelica.guerra@soccorp.com,2024-10-24,Night,Application Security,Lead
+ANL0077,Grant Mueller,grant.mueller@soccorp.com,2023-07-30,Day,Network Security,L1
+ANL0078,Brent Bowen,brent.bowen@soccorp.com,2023-03-04,Night,Cloud Security,L3
+ANL0079,Andrew Page,andrew.page@soccorp.com,2020-08-16,Day,Forensics,L1
+ANL0080,Brian Marsh,brian.marsh@soccorp.com,2025-12-30,Night,Cloud Security,L1
+ANL0081,Kelli Arnold,kelli.arnold@soccorp.com,2022-06-14,Day,Forensics,Lead
+ANL0082,Joel Salinas,joel.salinas@soccorp.com,2024-03-21,Day,Identity & Access,L1
+ANL0083,Matthew Foster,matthew.foster@soccorp.com,2024-11-09,Evening,Malware Analysis,L2
+ANL0084,Joanna Jordan,joanna.jordan@soccorp.com,2020-07-08,Day,Cloud Security,L1
+ANL0085,Donald Padilla,donald.padilla@soccorp.com,2025-03-15,Night,General,L1
+ANL0086,Rebecca Herrera,rebecca.herrera@soccorp.com,2022-08-28,Evening,Identity & Access,L3
+ANL0087,Brian Lambert,brian.lambert@soccorp.com,2023-05-23,Night,Cloud Security,Lead
+ANL0088,Emily Price,emily.price@soccorp.com,2022-10-25,Day,Identity & Access,Lead
+ANL0089,Harold Ellis,harold.ellis@soccorp.com,2021-07-07,Night,Application Security,L1
+ANL0090,Rebecca Sellers,rebecca.sellers@soccorp.com,2023-12-26,Night,Threat Hunting,L1
+ANL0091,Emily Allen,emily.allen@soccorp.com,2021-03-08,Night,Malware Analysis,Lead
+ANL0092,Charles Price,charles.price@soccorp.com,2024-01-09,Evening,General,L3
+ANL0093,Jenny Tucker,jenny.tucker@soccorp.com,2023-09-03,Night,Identity & Access,L2
+ANL0094,Tara Thompson,tara.thompson@soccorp.com,2021-06-24,Night,Network Security,L1
+ANL0095,Cody Wilkinson,cody.wilkinson@soccorp.com,2024-02-28,Evening,General,Lead
+ANL0096,Tiffany Washington,tiffany.washington@soccorp.com,2021-08-24,Day,General,L3
+ANL0097,Justin Delgado,justin.delgado@soccorp.com,2022-11-30,Night,Network Security,L1
+ANL0098,Michael Wallace Jr.,michael.wallace.jr.@soccorp.com,2023-11-03,Night,Identity & Access,Lead
+ANL0099,Connie Johnson,connie.johnson@soccorp.com,2021-10-28,Day,General,Lead
+ANL0100,Richard Cunningham,richard.cunningham@soccorp.com,2025-01-24,Day,Malware Analysis,Lead
+ANL0101,Jorge Armstrong III,jorge.armstrong.iii@soccorp.com,2023-09-16,Day,General,L1
+ANL0102,Kimberly Sherman PhD,kimberly.phd@soccorp.com,2023-02-08,Day,Identity & Access,Lead
+ANL0103,Jeffery Fitzgerald,jeffery.fitzgerald@soccorp.com,2024-05-12,Night,Network Security,L1
+ANL0104,Shaun Johnson,shaun.johnson@soccorp.com,2022-01-18,Night,Forensics,L1
+ANL0105,Angie Grimes,angie.grimes@soccorp.com,2021-03-09,Night,General,L3
+ANL0106,Christine Rojas,christine.rojas@soccorp.com,2024-07-27,Day,Threat Hunting,Lead
+ANL0107,Lisa Patterson,lisa.patterson@soccorp.com,2024-02-21,Night,General,L1
+ANL0108,Robin Trujillo,robin.trujillo@soccorp.com,2023-11-13,Night,General,L1
+ANL0109,Linda Jackson,linda.jackson@soccorp.com,2026-04-15,Night,Threat Hunting,L1
+ANL0110,Kenneth Farley,kenneth.farley@soccorp.com,2023-07-16,Night,Forensics,L1
+ANL0111,Robin Taylor,robin.taylor@soccorp.com,2024-12-06,Night,Malware Analysis,L1
+ANL0112,Anthony Ramirez,anthony.ramirez@soccorp.com,2024-05-17,Day,Cloud Security,L1
+ANL0113,Brandi Thomas,brandi.thomas@soccorp.com,2022-05-26,Day,Malware Analysis,L3
+ANL0114,Ryan Long,ryan.long@soccorp.com,2021-05-02,Evening,Malware Analysis,Lead
+ANL0115,Lori Brooks,lori.brooks@soccorp.com,2020-12-09,Evening,Application Security,L1
+ANL0116,Patricia Powell,patricia.powell@soccorp.com,2024-12-06,Day,Malware Analysis,Lead
+ANL0117,Sherry Gibson,sherry.gibson@soccorp.com,2023-05-20,Night,Cloud Security,Lead
+ANL0118,Sheila Boone,sheila.boone@soccorp.com,2021-01-16,Night,Network Security,L1
+ANL0119,Madison Terry,madison.terry@soccorp.com,2025-07-10,Night,General,L1
+ANL0120,Jennifer Donaldson,jennifer.donaldson@soccorp.com,2025-05-17,Evening,Cloud Security,L1
+ANL0121,Frank Campbell MD,frank.campbell.md@soccorp.com,2021-04-07,Day,Identity & Access,L1
+ANL0122,Rachel Shannon,rachel.shannon@soccorp.com,2025-01-01,Night,Identity & Access,Lead
+ANL0123,Mark Copeland,mark.copeland@soccorp.com,2020-08-03,Night,Threat Hunting,L3
+ANL0124,Brooke Bryant,brooke.bryant@soccorp.com,2026-05-13,Night,Forensics,Lead
+ANL0125,Zachary Blankenship,zachary.blankenship@soccorp.com,2025-09-18,Evening,Identity & Access,L1
+ANL0126,Shannon Mcdowell,shannon.mcdowell@soccorp.com,2021-01-16,Night,Forensics,L1
+ANL0127,Bradley Beck,bradley.beck@soccorp.com,2024-05-01,Night,Threat Hunting,L2
+ANL0128,Mario Barber,mario.barber@soccorp.com,2024-12-17,Night,Forensics,L1
+ANL0129,Brandon Davis,brandon.davis@soccorp.com,2021-10-03,Night,Cloud Security,L1
+ANL0130,Kevin Stone,kevin.stone@soccorp.com,2023-02-16,Evening,Application Security,L1
+ANL0131,Greg Martinez,greg.martinez@soccorp.com,2025-08-02,Night,General,L1
+ANL0132,Karen Perez,karen.perez@soccorp.com,2021-01-08,Night,Identity & Access,L1
+ANL0133,Ashley Richardson,ashley.richardson@soccorp.com,2022-04-06,Night,Forensics,Lead
+ANL0134,Robert Baxter,robert.baxter@soccorp.com,2024-04-16,Night,Malware Analysis,L1
+ANL0135,Andrea Elliott,andrea.elliott@soccorp.com,2024-02-08,Day,Network Security,L2
+ANL0136,Gregory Lewis,gregory.lewis@soccorp.com,2024-12-02,Evening,Forensics,L1
+ANL0137,Lisa Ramos,lisa.ramos@soccorp.com,2021-10-11,Day,Forensics,L2
+ANL0138,Brenda Martinez,brenda.martinez@soccorp.com,2024-10-24,Day,Application Security,Lead
+ANL0139,Jeffrey Moody,jeffrey.moody@soccorp.com,2021-12-16,Night,Threat Hunting,L1
+ANL0140,Danielle Burke,danielle.burke@soccorp.com,2024-10-05,Day,Threat Hunting,L1
